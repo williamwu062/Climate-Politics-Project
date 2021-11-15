@@ -199,3 +199,54 @@ class LegiScan(object):
 
     def __repr__(self):
         return str(self)
+
+
+class MoreLegiscan(LegiScan):
+  def __init__(self, api_key):
+    super().__init__(api_key)
+
+  def searchRaw(self, state, bill_number=None, query=None, year=2, page=1):
+    """Get a page of results for a search against the LegiScan full text
+        engine; returns a paginated result set.
+
+        Specify a bill number or a query string.  Year can be an exact year
+        or a number between 1 and 4, inclusive.  These integers have the
+        following meanings:
+            1 = all years
+            2 = current year, the default
+            3 = recent years
+            4 = prior years
+        Page is the result set page number to return.
+    """
+    if bill_number is not None:
+        params = {'state': state, 'bill': bill_number}
+    elif query is not None:
+        params = {'state': state, 'query': query,
+                  'year': year, 'page': page}
+    else:
+        raise ValueError('Must specify bill_number or query')
+    data = self._get(self._url('searchRaw', params))['searchresult']
+    # return a summary of the search and the results as a dictionary
+    summary = data.pop('summary')
+    results = {'summary': summary, 'results': [data[i] for i in data]}
+    return results
+
+  def getSearchIds(self, search_type, state, bill_number=None, query=None, year=1, page=1):
+    """Gets a page of results through search() or searchRaw() according to the arguments given. Then finds the bill ids associated with all search results.
+
+        Specify a search type. This determines whether to use search() or searchRaw(). There are two integer choices for this:
+            0 = search()
+            1 = searchRaw()
+        Returns a list of bill ids associated with the corresponding search.
+    """
+    bills = super().search(state=state, bill_number=bill_number, query=query, page=page, year=year) if search_type == 0 else self.searchRaw(state=state, bill_number=bill_number, query=query, year=year)
+    
+    num_bills = int(bills['summary']['count'])
+    bill_ids = []
+    if search_type == 0:
+        for i in range(num_bills):
+            bill_ids.append(bills['results'][i]['bill_id'])
+    else:
+        for i in range(num_bills):
+            bill_ids.append(bills['results'][0][i]['bill_id'])
+    return bill_ids
