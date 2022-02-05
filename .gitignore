@@ -1,2 +1,5 @@
 *.config.py
 *.__pycache__
+legislation/private.ini
+.DS_Store
+legislation/.DS_Store

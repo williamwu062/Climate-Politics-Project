@@ -1,0 +1,1 @@
+Make sure you go on the media branch. Then create your own branch that branches off from 'media' for your own work. 
