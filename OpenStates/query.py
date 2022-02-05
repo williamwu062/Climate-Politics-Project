@@ -1,7 +1,10 @@
 import requests
 import json
+import dataExtraction as de
+import scipy as sp
 import config
 import pandas as pd
+import uuid
 
 def makeQuery(cursor):
     query = """
@@ -61,59 +64,152 @@ def makeQuery(cursor):
 headers = {
     'X-API-KEY': config.api_key
 }
-# query MyQuery {
-#   bills(searchQuery: "climate change", first: 10) {
-#     totalCount
-#   }
-# }
 
-f = open("data.csv", "w")
+
+f = open("openStatesData.csv", "w")
 f.truncate()
 f.close()
 
+f = open("openStatesVotes.csv", "w")
+f.truncate()
+f.close()
+
+
 cursor = ""
 
-query = makeQuery(cursor)
-r = requests.post('https://openstates.org/graphql', headers = headers, json={'query': query})
-print(r.status_code)
-print(r.text)
+us_state_to_abbrev = {
+    "Alabama": "AL",
+    "Alaska": "AK",
+    "Arizona": "AZ",
+    "Arkansas": "AR",
+    "California": "CA",
+    "Colorado": "CO",
+    "Connecticut": "CT",
+    "Delaware": "DE",
+    "Florida": "FL",
+    "Georgia": "GA",
+    "Hawaii": "HI",
+    "Idaho": "ID",
+    "Illinois": "IL",
+    "Indiana": "IN",
+    "Iowa": "IA",
+    "Kansas": "KS",
+    "Kentucky": "KY",
+    "Louisiana": "LA",
+    "Maine": "ME",
+    "Maryland": "MD",
+    "Massachusetts": "MA",
+    "Michigan": "MI",
+    "Minnesota": "MN",
+    "Mississippi": "MS",
+    "Missouri": "MO",
+    "Montana": "MT",
+    "Nebraska": "NE",
+    "Nevada": "NV",
+    "New Hampshire": "NH",
+    "New Jersey": "NJ",
+    "New Mexico": "NM",
+    "New York": "NY",
+    "North Carolina": "NC",
+    "North Dakota": "ND",
+    "Ohio": "OH",
+    "Oklahoma": "OK",
+    "Oregon": "OR",
+    "Pennsylvania": "PA",
+    "Rhode Island": "RI",
+    "South Carolina": "SC",
+    "South Dakota": "SD",
+    "Tennessee": "TN",
+    "Texas": "TX",
+    "Utah": "UT",
+    "Vermont": "VT",
+    "Virginia": "VA",
+    "Washington": "WA",
+    "West Virginia": "WV",
+    "Wisconsin": "WI",
+    "Wyoming": "WY",
+    "District of Columbia": "DC",
+    "American Samoa": "AS",
+    "Guam": "GU",
+    "Northern Mariana Islands": "MP",
+    "Puerto Rico": "PR",
+    "United States Minor Outlying Islands": "UM",
+    "U.S. Virgin Islands": "VI",
+    "United States" : "USA"
+}
 
-json_data = json.loads(r.text)['data']['bills']['edges']
+df = pd.DataFrame(columns = ['Bill ID','State', 'Legislative Session', 'Bill Number', 'Bill Title', 'Bill', 'Database URL', 'Date of Intro', 'Chamber of Origin', 'Sponsors', 'List of Status'])
 
-df = pd.json_normalize(json_data)
-df.columns = ['Cursor','Bill ID','State', 'Legislative Session', 'Bill Number', 'Bill Title', 'Bill', 'Database URL', 'Date of Intro', 'Chamber of Origin', 'Sponsors', 'List of Status', 'Votes']
+votesDf = pd.DataFrame(columns = ['Vote ID', 'Bill ID', 'Yae', 'Nay', 'Absent', 'Not Voting', 'Result'])
 
-cursor = json_data[-1]['cursor']
-
-# check if data is already in here and check other search terms
-
-# print(cursor)
-# print(makeQuery(cursor))
 df.to_csv("openStatesData.csv", index=False, mode = 'a')
+
+votesDf.to_csv("openStatesVotes.csv", index = False, mode = 'a')
 
 while True:
     query = makeQuery(cursor)
     r = requests.post('https://openstates.org/graphql', headers = headers, json={'query': query})
-    print(r.status_code)
-    print(r.text)
-
 
     json_data = json.loads(r.text)['data']['bills']['edges']
     if(json_data == []):
         print('DONE')
         break
 
-    df = pd.json_normalize(json_data)
-
     cursor = json_data[-1]['cursor']
+    print(len(json_data))
+    for data in json_data:
+        data = data['node']
+        print(data)
+        billId = data['id']
+        state = us_state_to_abbrev[data['legislativeSession']['jurisdiction']['name']]
+        legislativeSession = data['legislativeSession']['name']
+        billNum = data['identifier']
+        billTitle = data['title']
+        billURL = de.urlArray(data['documents'])
+        databaseURL = data['openstatesUrl']
+        dateOfIntro = data['createdAt']
+        chamberOfOrigin = data['fromOrganization']['name']
+        sponsors = de.sponsorships(data['sponsorships'])
+        listOfStatus = de.status(data['actions'])
 
-    # check if data is already in here and check other search terms
+        dict = {"Bill ID" : [billId],
+        "State" :[state],
+        "Legislative Session" : [legislativeSession],
+        "Bill Number" : [billNum],
+        "Bill Title" : [billTitle],
+        "Bill": [billURL],
+        "Database URL" : [databaseURL],
+        "Date of Intro" : [dateOfIntro],
+        "Chamber of Origin": [chamberOfOrigin],
+        "Sponsors": [sponsors],
+        "List of Status" : [listOfStatus]}
 
-    # print(cursor)
-    # print(makeQuery(cursor))
-    df.to_csv("data.csv", index=False, mode = 'a', header=False)
-    # break
+        df2 = pd.DataFrame(dict)
+        df = pd.concat([df, df2])
 
-# print(json_data)
+        votes = data['votes']['edges']
+        if len(votes) != 0:
+            result = votes[0]['node']['result']
+            yes = votes[0]['node']['counts'][0]['value']
+            no = votes[0]['node']['counts'][1]['value']
+            notVoting = votes[0]['node']['counts'][2]['value']
+            voteId = str(uuid.uuid4())
+
+            voteDict = {"Vote ID" : [voteId],
+                "Bill ID" : [billId],
+                "Yae" :[yes],
+                "Nay" : [no],
+                "Absent" : [0],
+                "Not Voting" : [notVoting],
+                "Result": [result]}
+            voteDf2 = pd.DataFrame(voteDict)
+            votesDf = pd.concat([votesDf, voteDf2])
+
+
+    df = df.drop_duplicates(subset = "Bill ID", keep = "first")
+    df.to_csv("openStatesData.csv", index=False, mode = 'a', header=False)
+    votesDf = votesDf.drop_duplicates(subset = "Bill ID", keep = "first")
+    votesDf.to_csv("openStatesVotes.csv", index=False, mode='a', header=False)
+
 
 
