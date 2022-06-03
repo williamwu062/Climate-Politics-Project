@@ -1,0 +1,17 @@
+roll_call_id,yea,nay,absent,nv,passed,chamber,desc,date,bill_id
+395080,9,25,0,0,0,H,House: Second Reading Amendment No. 2,2015-02-13,672684
+395081,9,25,0,0,0,H,House: Second Reading Amendment No. 2,2015-02-13,672684
+427575,5,15,0,0,0,S,Senate: Second Reading Amendment No. 1,2015-04-07,672684
+427576,5,15,0,0,0,S,Senate: Second Reading Amendment No. 1,2015-04-07,672684
+429728,23,14,0,0,1,H,House: Concur,2015-04-10,672684
+1193991,19,0,1,0,1,S,Senate: Third Reading - Final Passage Effective Date(s),2022-04-27,1607659
+306849,7,29,0,0,0,H,House: HB 52 am Second Reading Amendment No. 3,2013-02-25,449667
+306850,7,29,0,0,0,H,House: HB 52 am Second Reading Amendment No. 3,2013-02-25,449667
+306851,19,1,0,0,1,S,Senate: Third Reading - Final Passage Effective Date,2013-04-12,449667
+306852,36,0,0,0,1,H,House: Concur,2013-04-13,449667
+308924,10,10,0,0,0,S,Senate: Second Reading Amendment No. 1,2013-04-12,449667
+1188086,12,20,8,0,0,H,House: Second Reading Amendment No. 2,2022-04-13,1583479
+1188087,12,20,8,0,0,H,House: Second Reading Amendment No. 2,2022-04-13,1583479
+1188088,14,18,8,0,0,H,House: Second Reading Amendment No. 3,2022-04-13,1583479
+1188684,29,2,9,0,1,H,House: Third Reading Final Passage,2022-04-14,1583479
+1205511,37,2,1,0,1,H,House: Concur,2022-05-17,1583479

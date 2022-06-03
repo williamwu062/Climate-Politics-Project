@@ -1,0 +1,8 @@
+requests
+configparser
+jupyter
+pandas
+numpy
+python-docx
+lxml
+bs4

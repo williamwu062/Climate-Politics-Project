@@ -1,0 +1,21 @@
+roll_call_id,yea,nay,absent,nv,passed,chamber,desc,date,bill_id
+53060,94,1,0,3,1,H,Read the third time and passed and ordered transmitted to the Senate.,2011-02-03,228372
+53061,35,0,0,0,1,S,Read the third time and passed.,2011-02-09,228372
+827709,35,0,0,0,1,S,Read the third time and passed.,2019-03-25,1237536
+836627,35,0,0,0,1,S,Read the third time and passed.,2019-04-04,1237536
+415480,34,0,0,0,1,S,Read the third time and passed.,2015-03-24,747922
+423996,94,0,0,0,1,H,Read the third time and passed and ordered transmitted to the Senate.,2015-03-30,747922
+424624,34,0,0,0,1,S,Read the third time and passed.,2015-03-31,747922
+263063,16,0,2,0,1,S,Read third time and failed to pass.,2013-04-11,529938
+263906,33,0,2,0,1,S,Read the third time and passed.,2013-04-12,529938
+265803,63,9,0,0,1,H,Read the third time and passed and ordered transmitted to the Senate.,2013-04-16,529938
+266940,20,7,2,0,1,S,Read the third time and passed.,2013-04-12,529938
+240276,91,1,0,0,1,H,Read the third time and passed and ordered transmitted to the Senate.,2013-02-18,488445
+256694,35,0,0,0,1,S,Read the third time and passed.,2013-04-01,488445
+259299,86,0,0,0,1,H,Senate amendment # 1 read and concurred in.,2013-04-04,488445
+259300,83,0,0,0,1,H,Senate amendment # 2 read and concurred in.,2013-04-04,488445
+259301,88,0,0,0,1,H,Senate amendment # 3 read and concurred in.,2013-04-04,488445
+1026004,92,1,0,7,1,H,Third Reading,2021-03-10,1463778
+1044821,34,0,1,0,1,S,Third Reading,2021-04-05,1463778
+1029068,34,0,1,0,1,S,Third Reading,2021-03-16,1463087
+1046293,88,1,0,11,1,H,Third Reading,2021-04-06,1463087

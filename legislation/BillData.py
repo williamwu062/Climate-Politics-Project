@@ -1,4 +1,7 @@
 
+from ast import Assert
+
+
 class BillData():
   """
   Holds functions that work with data from a bill. This bill should be a JSON format bill from the Legiscan API.
@@ -10,6 +13,8 @@ class BillData():
 
   def __init__(self, bill):
     self.bill = bill
+    if not (bill['progress'] and bill['history'] and bill['texts'] and bill['sponsors']):
+      raise IndexError('empty information in bill')
 
   def getVoteData(self):
     """

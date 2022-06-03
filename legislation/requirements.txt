@@ -1,5 +1,0 @@
-requests
-configparser
-jupyter
-pandas
-numpy

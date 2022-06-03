@@ -1,0 +1,1768 @@
+roll_call_id,yea,nay,absent,nv,passed,chamber,desc,date,bill_id
+920550,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-11,1319280
+920551,7,0,1,0,1,H,"House Health: Passed, With Amendments",2020-02-11,1319280
+932934,14,0,1,0,1,H,"House Finance: Passed, Unamended",2020-02-24,1319280
+951682,5,0,2,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2020-03-13,1319280
+951683,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-03-13,1319280
+1140131,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-10,1569252
+1155756,13,0,2,0,1,H,"House Finance: Passed, With Amendments",2022-02-25,1569252
+1175782,3,0,2,0,1,S,"Senate Health: Passed, Unamended",2022-03-23,1569252
+1175783,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, Unamended",2022-03-23,1569252
+907804,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-14,1291007
+907805,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-02-22,1291007
+907806,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-03-15,1291007
+907807,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-03-15,1291007
+907808,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-04-05,1291007
+907594,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-11,1290701
+907595,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-11,1290701
+907596,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-02-25,1290701
+907597,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, Unamended",2019-03-12,1290701
+910397,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, Unamended",2019-02-11,1289041
+910398,3,0,2,0,1,S,"Senate Water and Land: Passed, Unamended",2019-02-11,1289041
+919800,4,0,3,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, Unamended",2020-02-11,1313983
+919801,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, Unamended",2020-02-11,1313983
+926753,8,0,5,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-19,1313983
+918084,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-07,1312252
+918085,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-07,1312252
+929134,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-20,1312252
+918076,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-07,1314466
+918077,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-07,1314466
+929041,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-20,1314466
+908155,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-08,1289229
+908156,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-08,1289229
+908157,5,0,0,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-02-08,1289229
+955674,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-02-08,1289229
+1143579,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2022-02-14,1562394
+1141061,7,1,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-10,1562538
+996761,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1419853
+1007346,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-02-16,1419853
+1015976,14,1,0,0,1,H,"House Finance: Passed, Unamended",2021-02-25,1419853
+1119293,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1540788
+1119294,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-02-16,1540788
+1119295,14,1,0,0,1,H,"House Finance: Passed, Unamended",2021-02-25,1540788
+1007351,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2021-02-16,1417382
+1007352,6,0,2,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-16,1417382
+1016480,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-02-25,1417382
+1031056,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2021-03-17,1417382
+1031057,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-03-17,1417382
+1047004,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-04-07,1417382
+1056557,3,0,1,0,1,H,"House Conference: Passed, With Amendments",2021-04-19,1417382
+1056558,3,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-19,1417382
+916701,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-06,1301941
+916702,6,0,1,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-06,1301941
+908021,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-12,1289260
+908022,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2019-02-12,1289260
+908023,15,0,0,0,1,H,"House Finance: Passed, Unamended",2019-02-26,1289260
+908024,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-03-15,1289260
+908025,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-03-15,1289260
+923271,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-13,1319372
+934799,13,0,2,0,1,H,"House Finance: Passed, Unamended",2020-02-25,1319372
+952022,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-03-13,1319372
+917294,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-06,1312964
+917295,6,0,1,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-06,1312964
+931397,13,0,2,0,1,H,"House Finance: Passed, Unamended",2020-02-21,1312964
+910435,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-11,1289790
+910436,3,0,2,0,1,S,"Senate Public Safety, Intergovernmental and Military Affairs: Passed, With Amendments",2019-02-11,1289790
+910437,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-11,1289790
+910438,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-02-25,1289790
+908775,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-11,1289240
+908776,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-11,1289240
+907181,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-01-31,1290990
+907182,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2019-02-13,1290990
+907183,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-02-22,1290990
+907184,3,0,2,0,1,S,"Senate Higher Education: Passed, With Amendments",2019-03-15,1290990
+907185,4,0,1,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-03-15,1290990
+955628,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-03-15,1290990
+1004255,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2021-02-11,1420106
+1016520,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-02-25,1420106
+1119450,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2021-02-11,1541005
+1119451,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-02-25,1541005
+916931,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-06,1317943
+916932,6,0,1,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-06,1317943
+931510,13,0,2,0,1,H,"House Finance: Passed, With Amendments",2020-02-21,1317943
+968825,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-06-24,1317943
+968826,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-06-24,1317943
+970432,12,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-07-02,1317943
+919237,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-10,1314650
+919238,4,0,1,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2020-02-10,1314650
+929086,9,0,4,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-20,1314650
+950523,6,0,2,0,1,H,"House Tourism & International Affairs: Passed, With Amendments",2020-03-12,1314650
+955496,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2020-02-10,1314650
+907324,5,0,2,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2019-02-06,1290615
+907325,5,0,2,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-06,1290615
+907326,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-02-26,1290615
+907327,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-03-18,1290615
+910147,9,0,4,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-01-29,1290615
+909229,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-11,1291423
+909230,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-11,1291423
+923299,8,0,0,0,1,H,"House Labor & Public Employment: Passed, With Amendments",2020-02-13,1317873
+927488,12,0,3,0,1,H,"House Finance: Passed, Unamended",2020-02-19,1317873
+918010,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-07,1318987
+918011,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-07,1318987
+929146,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-20,1318987
+949881,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-03-11,1318987
+949882,6,0,1,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-03-11,1318987
+1002128,7,1,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1420350
+1117913,7,1,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1538993
+909382,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-07,1289605
+909383,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-07,1289605
+909384,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2019-02-07,1289605
+1131782,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-01,1568918
+1141236,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2022-02-10,1568918
+1158948,11,1,3,0,1,H,"House Finance: Passed, With Amendments",2022-03-01,1568918
+1173546,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2022-03-21,1568918
+1173547,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2022-03-21,1568918
+1183901,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-04-05,1568918
+1196469,3,0,1,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-29,1568918
+1196470,5,0,0,0,1,H,"House Conference: Passed, With Amendments",2022-04-29,1568918
+997477,7,0,1,0,1,H,"House Corrections, Military, & Veterans: Passed, With Amendments",2021-02-05,1426529
+1118861,7,0,1,0,1,H,"House Corrections, Military, & Veterans: Passed, With Amendments",2021-02-05,1540169
+916065,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, Unamended",2020-02-05,1313844
+916066,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, Unamended",2020-02-05,1313844
+923305,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2020-02-13,1313844
+931445,13,0,2,0,1,H,"House Finance: Passed, Unamended",2020-02-21,1313844
+968658,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-06-24,1313844
+968659,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-06-24,1313844
+908716,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-05,1290384
+908717,6,0,1,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2019-02-05,1290384
+908718,9,0,2,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2019-02-12,1290384
+1135613,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-02-04,1569279
+1162504,8,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-03-03,1569279
+1138134,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2022-02-08,1568342
+1138135,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-08,1568342
+1160796,15,0,0,0,1,H,"House Finance: Passed, Unamended",2022-03-02,1568342
+1173025,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-03-18,1568342
+910105,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-08,1289396
+910106,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-08,1289396
+910107,5,0,0,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-02-08,1289396
+910108,5,0,0,0,1,S,"Senate Judiciary: Passed, With Amendments",2019-02-26,1289396
+910109,9,0,4,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-02-26,1289396
+955579,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-02-08,1289396
+912936,7,0,1,0,1,H,"House Transportation: Passed, With Amendments",2020-01-31,1316388
+921615,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, Unamended",2020-02-12,1316388
+928998,15,0,0,0,1,H,"House Finance: Passed, Unamended",2020-02-20,1316388
+951802,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-03-13,1316388
+909253,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-12,1290468
+909254,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2019-02-12,1290468
+909255,15,0,0,0,1,H,"House Finance: Passed, Unamended",2019-02-28,1290468
+909256,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-03-15,1290468
+909257,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-03-15,1290468
+909258,9,0,4,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-04-04,1290468
+995697,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2021-02-03,1419629
+1015039,7,0,0,0,1,S,"Senate Commerce and Consumer Protection: Passed, Unamended",2021-02-24,1419629
+1016360,7,0,0,0,1,S,"Senate Judiciary: Passed, Unamended",2021-02-24,1419629
+1031536,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2021-03-18,1419629
+1043900,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-04-01,1419629
+1058012,4,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-20,1419629
+1058013,3,0,1,0,1,H,"House Conference: Passed, With Amendments",2021-04-20,1419629
+1004588,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2021-02-11,1422277
+1016286,15,0,0,0,1,H,"House Finance: Passed, With Amendments",2021-02-25,1422277
+1036651,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2021-03-24,1422277
+1047617,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-04-07,1422277
+1060929,3,0,0,0,1,H,"House Conference: Passed, With Amendments",2021-04-22,1422277
+1060930,3,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-22,1422277
+918260,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-07,1314718
+918261,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-07,1314718
+928841,4,0,3,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2020-02-20,1314718
+912192,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-01-30,1313986
+927639,12,0,3,0,1,H,"House Finance: Passed, Unamended",2020-02-19,1313986
+910808,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-08,1290935
+910809,5,0,0,0,1,S,"Senate Judiciary: Passed, With Amendments",2019-02-27,1290935
+910810,4,0,3,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2019-02-27,1290935
+912205,8,1,2,0,1,H,"House Lower and Higher Education: Passed, With Amendments",2020-01-30,1314264
+917941,7,1,0,0,1,H,"House Transportation: Passed, With Amendments",2020-02-07,1314264
+931526,10,3,2,0,1,H,"House Finance: Passed, Unamended",2020-02-21,1314264
+908288,3,0,2,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, Unamended",2019-02-08,1289324
+908289,3,0,2,0,1,S,"Senate Water and Land: Passed, Unamended",2019-02-08,1289324
+908290,13,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-03-01,1289324
+955677,3,0,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, Unamended",2019-02-08,1289324
+996094,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1419851
+1004696,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-02-11,1419851
+1020287,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-03-02,1419851
+1118054,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1539195
+1118055,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-02-11,1539195
+1118056,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-03-02,1539195
+912127,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-01-30,1319121
+917400,7,0,4,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2020-02-06,1319121
+931565,13,0,2,0,1,H,"House Finance: Passed, With Amendments",2020-02-21,1319121
+1117580,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-10,1538570
+1117581,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-10,1538570
+1117582,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1538570
+1117583,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, Unamended",2021-03-16,1538570
+1117584,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-03-24,1538570
+1003205,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-10,1417622
+1003206,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-10,1417622
+1019807,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1417622
+1029193,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, Unamended",2021-03-16,1417622
+1036591,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-03-24,1417622
+913607,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-03,1314812
+931009,4,0,3,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2020-02-21,1314812
+931010,3,0,2,0,1,S,"Senate Judiciary: Passed, With Amendments",2020-02-21,1314812
+908402,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-01-27,1313995
+920091,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-11,1313995
+949333,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-03-11,1313995
+907946,4,0,1,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-02-07,1289521
+907947,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-07,1289521
+907948,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2019-02-07,1289521
+907949,13,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-03-01,1289521
+907950,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-03-21,1289521
+907951,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-03-27,1289521
+955497,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-02-07,1289521
+1004166,6,0,2,0,1,H,"House Water & Land: Passed, With Amendments",2021-02-11,1424363
+1019738,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-03-02,1424363
+1036685,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2021-03-24,1424363
+1036686,5,0,0,0,1,S,"Senate Government Operations: Passed, With Amendments",2021-03-24,1424363
+1046972,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-04-07,1424363
+1061033,3,0,0,0,1,H,"House Conference: Passed, With Amendments",2021-04-22,1424363
+1061034,4,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-22,1424363
+1139204,8,0,0,0,1,H,"House Agriculture: Passed, With Amendments",2022-02-09,1573950
+1156855,14,0,1,0,1,H,"House Finance: Passed, With Amendments",2022-02-28,1573950
+1171511,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2022-03-16,1573950
+1171512,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-03-16,1573950
+910169,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-01-29,1314492
+934973,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-25,1314492
+1137601,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2022-02-08,1562391
+1155989,9,0,2,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2022-02-25,1562391
+1174624,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-03-22,1562391
+1174625,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2022-03-22,1562391
+1183293,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-04-05,1562391
+1193565,3,0,1,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-26,1562391
+1193566,4,0,2,0,1,H,"House Conference: Passed, With Amendments",2022-04-26,1562391
+919353,4,0,1,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, Unamended",2020-02-10,1314393
+938805,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-28,1314393
+938806,8,0,5,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-28,1314393
+955550,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, Unamended",2020-02-10,1314393
+968110,8,0,0,0,1,H,"House Economic Development & Business: Passed, With Amendments",2020-06-22,1314393
+968111,4,0,3,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-06-22,1314393
+914872,5,0,0,0,1,S,"Senate Government Operations: Passed, With Amendments",2020-02-04,1318929
+929333,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-20,1318929
+1000362,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1419872
+1117958,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1539067
+907525,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2019-01-29,1290005
+907526,12,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-02-15,1290005
+915811,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-05,1314428
+908416,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-12,1289673
+908417,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2019-02-12,1289673
+908418,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-02-22,1289673
+908419,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-03-11,1289673
+1143646,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2022-02-14,1574024
+1143647,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2022-02-14,1574024
+1160632,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-03-02,1574024
+1172656,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-03-17,1574024
+1173774,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2022-03-21,1574024
+1184080,12,0,3,0,1,H,"House Finance: Passed, Unamended",2022-04-05,1574024
+1196569,3,0,1,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-29,1574024
+1196570,5,0,0,0,1,H,"House Conference: Passed, With Amendments",2022-04-29,1574024
+910195,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-01-29,1289359
+1009620,5,0,0,0,1,S,"Senate Government Operations: Passed, Unamended",2021-02-18,1420447
+1019481,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1420447
+1118904,5,0,0,0,1,S,"Senate Government Operations: Passed, Unamended",2021-02-18,1540223
+1118905,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1540223
+1141166,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2022-02-10,1569657
+1141167,5,0,0,0,1,S,"Senate Transportation: Passed, With Amendments",2022-02-10,1569657
+1143348,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2022-02-14,1570706
+1143349,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2022-02-14,1570706
+996742,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1423637
+1004686,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-02-11,1423637
+1020251,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-03-02,1423637
+1119148,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1540605
+1119149,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-02-11,1540605
+1119150,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-03-02,1540605
+922010,3,1,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-12,1319076
+922011,4,1,0,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2020-02-12,1319076
+938191,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-27,1319076
+955502,4,1,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2020-02-12,1319076
+1118013,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-12,1539153
+1118014,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-12,1539153
+1118015,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1539153
+1005401,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-12,1421837
+1005402,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-12,1421837
+1020122,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1421837
+1138512,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2022-02-08,1562469
+1138513,5,0,0,0,1,S,"Senate Transportation: Passed, With Amendments",2022-02-08,1562469
+998577,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-08,1421852
+1118925,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-08,1540259
+1004678,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2021-02-11,1420368
+1014798,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-24,1420368
+1119490,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2021-02-11,1541046
+1119491,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-24,1541046
+1130290,5,0,0,0,1,S,"Senate Hawaiian Affairs: Passed, With Amendments",2022-01-27,1562506
+1130291,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-01-27,1562506
+911173,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-07,1291424
+911174,7,0,1,0,1,H,"House Economic Development & Business: Passed, With Amendments",2019-02-07,1291424
+911175,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-02-22,1291424
+912813,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-01-31,1314870
+998570,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2021-02-08,1422010
+1119360,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2021-02-08,1540868
+916529,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-06,1319194
+916530,6,0,1,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-06,1319194
+933141,14,0,1,0,1,H,"House Finance: Passed, Unamended",2020-02-24,1319194
+1002334,7,1,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1424493
+1007411,9,1,1,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-02-16,1424493
+1016230,13,2,0,0,1,H,"House Finance: Passed, Unamended",2021-02-25,1424493
+1032602,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-03-19,1424493
+1032603,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-03-19,1424493
+1043677,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-04-01,1424493
+1060498,4,0,0,0,1,H,"House Conference: Passed, With Amendments",2021-04-22,1424493
+1060499,3,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-22,1424493
+918225,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-07,1316183
+915557,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-05,1319291
+915558,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-05,1319291
+996831,8,0,1,0,1,H,"House Pandemic & Disaster Preparedness: Passed, With Amendments",2021-02-04,1421909
+1015171,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-02-24,1421909
+1029825,4,0,1,0,1,S,"Senate Public Safety, Intergovernmental and Military Affairs: Passed, Unamended",2021-03-16,1421909
+1043690,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-04-01,1421909
+1117952,8,0,1,0,1,H,"House Pandemic & Disaster Preparedness: Passed, With Amendments",2021-02-04,1539058
+1117953,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-02-24,1539058
+1117954,4,0,1,0,1,S,"Senate Public Safety, Intergovernmental and Military Affairs: Passed, Unamended",2021-03-16,1539058
+1117955,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-04-01,1539058
+914384,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-04,1317819
+923145,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2020-02-13,1317819
+934853,13,0,2,0,1,H,"House Finance: Passed, Unamended",2020-02-25,1317819
+908642,5,0,0,0,1,S,"Senate Housing: Passed, With Amendments",2019-02-12,1289711
+908643,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-12,1289711
+908644,11,0,2,0,1,S,"Senate Ways and Means: Passed, Unamended",2019-02-25,1289711
+1138408,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-08,1574043
+1145312,8,0,3,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2022-02-15,1574043
+1158949,12,0,3,0,1,H,"House Finance: Passed, Unamended",2022-03-01,1574043
+1137441,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2022-02-08,1568536
+1137442,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-08,1568536
+1157402,14,0,1,0,1,H,"House Finance: Passed, Unamended",2022-02-28,1568536
+1174935,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-03-22,1568536
+1174936,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2022-03-22,1568536
+1183877,7,0,0,0,1,S,"Senate Judiciary: Passed, With Amendments",2022-04-05,1568536
+1183878,8,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-04-05,1568536
+916749,4,0,1,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2020-02-06,1313945
+916750,5,0,0,0,1,S,"Senate Housing: Passed, With Amendments",2020-02-06,1313945
+955599,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2020-02-06,1313945
+1117967,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-12,1539084
+1117968,8,0,0,0,1,H,"House Culture, Arts, & International Affairs: Passed, With Amendments",2021-03-24,1539084
+1005132,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-12,1418062
+1036117,8,0,0,0,1,H,"House Culture, Arts, & International Affairs: Passed, With Amendments",2021-03-24,1418062
+1002111,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1426457
+1119141,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1540598
+997208,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-05,1419699
+1017172,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-26,1419699
+1029594,6,0,2,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-16,1419699
+1029595,6,0,2,0,1,H,"House Agriculture: Passed, With Amendments",2021-03-16,1419699
+1036631,10,1,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-03-24,1419699
+1119457,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-05,1541010
+1119458,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-26,1541010
+1119459,6,0,2,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-16,1541010
+1119460,6,0,2,0,1,H,"House Agriculture: Passed, With Amendments",2021-03-16,1541010
+1119461,10,1,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-03-24,1541010
+1008435,2,1,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-17,1420091
+1014700,10,1,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-24,1420091
+1119131,2,1,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-17,1540566
+1119132,10,1,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-24,1540566
+910711,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-12,1288954
+910712,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2019-02-12,1288954
+910713,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-02-22,1288954
+910714,4,0,1,0,1,S,"Senate Water and Land: Passed, Unamended",2019-03-13,1288954
+910715,3,0,2,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, Unamended",2019-03-13,1288954
+910716,5,0,0,0,1,S,"Senate Housing: Passed, With Amendments",2019-04-05,1288954
+910717,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-04-05,1288954
+955561,3,0,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, Unamended",2019-03-13,1288954
+1140427,5,0,0,0,1,S,"Senate Transportation: Passed, With Amendments",2022-02-10,1566632
+1141316,5,0,0,0,1,S,"Senate Housing: Passed, With Amendments",2022-02-10,1566632
+1135390,5,0,3,0,1,H,"House Agriculture: Passed, With Amendments",2022-02-04,1574132
+1146793,8,0,0,0,1,H,"House Economic Development: Passed, With Amendments",2022-02-16,1574132
+1157082,14,0,1,0,1,H,"House Finance: Passed, Unamended",2022-02-28,1574132
+1169613,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2022-03-14,1574132
+1183661,11,0,0,0,1,S,"Senate Ways and Means: Passed, Unamended",2022-04-05,1574132
+1196692,3,0,1,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-29,1574132
+1196693,4,0,1,0,1,H,"House Conference: Passed, With Amendments",2022-04-29,1574132
+1196694,4,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-29,1574132
+1196695,4,0,1,0,1,H,"House Conference: Passed, With Amendments",2022-04-29,1574132
+1143185,3,0,2,0,1,S,"Senate Government Operations: Passed, With Amendments",2022-02-14,1569455
+1143186,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-02-14,1569455
+996064,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1419732
+1004606,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-02-11,1419732
+1119397,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1540917
+1119398,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-02-11,1540917
+1131402,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2022-01-31,1570517
+1158939,5,0,2,0,1,S,"Senate Commerce and Consumer Protection: Passed, With Amendments",2022-03-01,1570517
+1172207,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-03-17,1570517
+996039,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1424452
+1118088,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1539220
+912819,4,0,1,0,1,S,"Senate Education: Passed, With Amendments",2020-01-31,1314473
+932924,4,0,1,0,1,S,"Senate Judiciary: Passed, Unamended",2020-02-24,1314473
+968396,11,0,0,0,1,H,"House Lower and Higher Education: Passed, Unamended",2020-06-23,1314473
+970082,14,0,1,0,1,H,"House Finance: Passed, With Amendments",2020-06-29,1314473
+1136452,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-02-07,1569612
+1132198,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-01,1562572
+909026,6,0,1,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2019-02-01,1289930
+912190,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-01-30,1289399
+934627,8,0,3,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2020-02-25,1289399
+1140697,11,0,1,0,1,H,"House Education: Passed, With Amendments",2022-02-10,1570497
+1155719,15,0,0,0,1,H,"House Finance: Passed, With Amendments",2022-02-25,1570497
+919231,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-10,1317900
+934741,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-25,1317900
+914589,10,0,1,0,1,H,"House Lower and Higher Education: Passed, With Amendments",2020-02-04,1314694
+907255,4,0,1,0,1,S,"Senate Transportation: Passed, With Amendments",2019-02-08,1290475
+907256,5,0,0,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-02-08,1290475
+937697,12,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-27,1290475
+955584,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-02-08,1290475
+1001211,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1422044
+1119289,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1540781
+1008639,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2021-02-17,1426431
+1008640,3,0,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-17,1426431
+1117718,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2021-02-17,1538764
+1117719,3,0,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-17,1538764
+920956,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2020-02-11,1314658
+920957,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-11,1314658
+936169,9,0,4,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-26,1314658
+936170,4,0,1,0,1,S,"Senate Judiciary: Passed, With Amendments",2020-02-26,1314658
+967956,4,0,3,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-06-22,1314658
+970057,13,0,2,0,1,H,"House Finance: Passed, Unamended",2020-06-29,1314658
+999390,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1426597
+1020288,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-03-02,1426597
+1045171,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-04-05,1426597
+1045172,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2021-04-05,1426597
+1045173,5,0,0,0,1,S,"Senate Government Operations: Passed, With Amendments",2021-04-05,1426597
+1045174,8,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-04-05,1426597
+1045175,6,0,1,0,1,S,"Senate Judiciary: Passed, With Amendments",2021-04-05,1426597
+1059310,3,0,1,0,1,H,"House Conference: Passed, With Amendments",2021-04-21,1426597
+1059311,5,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-21,1426597
+920015,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-10,1319118
+938192,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-27,1319118
+951063,5,0,2,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-03-12,1319118
+1138425,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2022-02-08,1567361
+1138426,4,0,1,0,1,S,"Senate Transportation: Passed, With Amendments",2022-02-08,1567361
+1163051,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-03-04,1567361
+1171542,9,0,0,0,1,H,"House Transportation: Passed, With Amendments",2022-03-16,1567361
+1174651,6,0,2,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-03-22,1567361
+1182057,14,0,1,0,1,H,"House Finance: Passed, Unamended",2022-04-01,1567361
+1193476,4,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-26,1567361
+1193477,5,0,1,0,1,H,"House Conference: Passed, With Amendments",2022-04-26,1567361
+914605,6,1,1,0,1,H,"House Health: Passed, With Amendments",2020-02-04,1314606
+993578,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-01,1418119
+1020026,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1418119
+1117606,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-01,1538600
+1117607,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1538600
+907215,5,0,2,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2019-02-06,1291433
+907216,5,0,2,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-06,1291433
+1002394,5,0,0,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-09,1426531
+1007980,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-17,1426531
+1032557,7,0,1,0,1,H,"House Transportation: Passed, With Amendments",2021-03-19,1426531
+1042337,14,0,1,0,1,H,"House Finance: Passed, Unamended",2021-03-31,1426531
+1062086,3,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-23,1426531
+1062087,4,0,0,0,1,H,"House Conference: Passed, With Amendments",2021-04-23,1426531
+911942,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-01-30,1317789
+921596,8,0,0,0,1,H,"House Economic Development & Business: Passed, With Amendments",2020-02-12,1317789
+908044,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-07,1290738
+908045,7,0,1,0,1,H,"House Economic Development & Business: Passed, With Amendments",2019-02-07,1290738
+1002137,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1426557
+1118906,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1540225
+1135666,5,0,0,0,1,S,"Senate Education: Passed, With Amendments",2022-02-04,1569630
+1153067,11,0,0,0,1,S,"Senate Ways and Means: Passed, Unamended",2022-02-23,1569630
+1174897,11,0,2,0,1,H,"House Education: Passed, With Amendments",2022-03-22,1569630
+1183866,13,0,2,0,1,H,"House Finance: Passed, Unamended",2022-04-05,1569630
+1196053,3,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-28,1569630
+1196054,4,0,0,0,1,H,"House Conference: Passed, With Amendments",2022-04-28,1569630
+1004375,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-11,1419983
+1004376,8,0,0,0,1,H,"House Transportation: Passed, With Amendments",2021-02-11,1419983
+1007227,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-02-16,1419983
+1016159,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-02-25,1419983
+1032621,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-03-19,1419983
+1032622,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-03-19,1419983
+1049599,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-04-09,1419983
+1060371,4,0,1,0,1,H,"House Conference: Passed, With Amendments",2021-04-22,1419983
+1060372,3,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-22,1419983
+907379,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-13,1289308
+907380,6,0,1,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2019-02-26,1289308
+1117601,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-12,1538595
+1117602,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-12,1538595
+1117603,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1538595
+1117604,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-18,1538595
+1117605,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-03-23,1538595
+1005420,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-12,1420518
+1005421,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-12,1420518
+1019540,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1420518
+1031427,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-18,1420518
+1035506,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-03-23,1420518
+1118563,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, Unamended",2021-02-12,1539830
+1118564,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, Unamended",2021-02-12,1539830
+1118565,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1539830
+1118566,7,0,2,0,1,H,"House Government Reform: Passed, With Amendments",2021-03-17,1539830
+1118567,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-23,1539830
+1118568,14,0,1,0,1,H,"House Finance: Passed, Unamended",2021-04-01,1539830
+1005350,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, Unamended",2021-02-12,1414541
+1005351,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, Unamended",2021-02-12,1414541
+1020039,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-03-02,1414541
+1030879,7,0,2,0,1,H,"House Government Reform: Passed, With Amendments",2021-03-17,1414541
+1034872,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-23,1414541
+1043794,14,0,1,0,1,H,"House Finance: Passed, Unamended",2021-04-01,1414541
+1140149,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-10,1570886
+1152486,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2022-02-23,1570886
+1169472,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2022-03-14,1570886
+1178801,5,0,2,0,1,S,"Senate Commerce and Consumer Protection: Passed, With Amendments",2022-03-29,1570886
+1137658,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-08,1574191
+1148258,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2022-02-17,1574191
+1155926,13,0,2,0,1,H,"House Finance: Passed, Unamended",2022-02-25,1574191
+1173384,4,0,1,0,1,S,"Senate Government Operations: Passed, Unamended",2022-03-21,1574191
+1173686,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, Unamended",2022-03-21,1574191
+1186249,6,0,1,0,1,S,"Senate Judiciary: Passed, With Amendments",2022-04-08,1574191
+1186250,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-04-08,1574191
+918005,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-07,1319195
+918006,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-07,1319195
+935851,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-26,1319195
+919578,4,0,3,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2020-02-10,1316381
+919579,4,0,1,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2020-02-10,1316381
+929324,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-20,1316381
+939133,8,1,4,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-28,1316381
+951208,5,0,2,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-03-12,1316381
+955549,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2020-02-10,1316381
+908258,3,0,2,0,1,H,"House Legislative Management: Passed, With Amendments",2019-02-13,1289700
+908259,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-02-21,1289700
+908260,4,0,1,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-03-11,1289700
+908261,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-04-03,1289700
+955603,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-03-11,1289700
+1135696,5,0,0,0,1,S,"Senate Labor, Culture and the Arts: Passed, With Amendments",2022-02-04,1569410
+1154403,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-24,1569410
+1171363,7,0,0,0,1,H,"House Culture, Arts, & International Affairs: Passed, With Amendments",2022-03-16,1569410
+915617,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-05,1319304
+915618,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-05,1319304
+923276,11,0,1,0,1,H,"House Judiciary: Passed, Unamended",2020-02-13,1319304
+918045,3,0,2,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2020-02-07,1314618
+955490,3,0,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2020-02-07,1314618
+907345,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-01-28,1313078
+921735,8,0,0,0,1,H,"House Economic Development & Business: Passed, Unamended",2020-02-12,1313078
+931484,13,0,2,0,1,H,"House Finance: Passed, Unamended",2020-02-21,1313078
+1139735,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2022-02-09,1569086
+1139736,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2022-02-09,1569086
+1150628,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-22,1569086
+1172168,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-03-17,1569086
+1174759,9,0,2,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2022-03-22,1569086
+1184622,15,0,0,0,1,H,"House Finance: Passed, Unamended",2022-04-06,1569086
+1138525,4,0,1,0,1,S,"Senate Transportation: Passed, With Amendments",2022-02-08,1569411
+1154016,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-24,1569411
+1154017,6,0,1,0,1,S,"Senate Commerce and Consumer Protection: Passed, With Amendments",2022-02-24,1569411
+1172671,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-03-17,1569411
+1174929,9,0,2,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2022-03-22,1569411
+1184107,12,0,3,0,1,H,"House Finance: Passed, With Amendments",2022-04-05,1569411
+1193784,4,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-27,1569411
+1194827,5,0,0,0,1,H,"House Conference: Passed, With Amendments",2022-04-27,1569411
+909283,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-11,1290318
+909284,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-11,1290318
+910994,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2019-02-08,1289751
+910995,5,0,0,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-02-08,1289751
+910996,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-02-25,1289751
+910997,6,0,1,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2019-02-25,1289751
+910998,5,0,2,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-03-19,1289751
+910999,6,0,2,0,1,H,"House Transportation: Passed, With Amendments",2019-03-19,1289751
+911000,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2019-03-28,1289751
+955488,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-02-08,1289751
+1137882,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, Unamended",2022-02-07,1539077
+1142231,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2022-02-11,1570990
+1142232,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-02-11,1570990
+1160857,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-03-02,1570990
+1170448,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-03-15,1570990
+919850,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-11,1316330
+919851,7,0,1,0,1,H,"House Health: Passed, With Amendments",2020-02-11,1316330
+932246,14,0,1,0,1,H,"House Finance: Passed, Unamended",2020-02-24,1316330
+914821,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-04,1319295
+914822,7,0,1,0,1,H,"House Transportation: Passed, With Amendments",2020-02-04,1319295
+920521,7,0,1,0,1,H,"House Labor & Public Employment: Passed, With Amendments",2020-02-11,1319295
+931538,13,0,2,0,1,H,"House Finance: Passed, Unamended",2020-02-21,1319295
+948853,3,0,2,0,1,S,"Senate Government Operations: Passed, With Amendments",2020-03-10,1319295
+952018,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2020-03-13,1319295
+968128,3,0,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2020-06-22,1319295
+1138277,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-02-08,1568855
+1145284,8,0,3,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2022-02-15,1568855
+994877,9,0,0,0,1,H,"House Government Reform: Passed, With Amendments",2021-02-03,1419729
+1007004,6,0,2,0,1,H,"House Energy & Environmental Protection: Passed, Unamended",2021-02-16,1419729
+1020056,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-03-02,1419729
+1117765,9,0,0,0,1,H,"House Government Reform: Passed, With Amendments",2021-02-03,1538821
+1117766,6,0,2,0,1,H,"House Energy & Environmental Protection: Passed, Unamended",2021-02-16,1538821
+1117767,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-03-02,1538821
+1118708,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-10,1540001
+1118709,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-10,1540001
+1003338,3,0,2,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-10,1424470
+1003339,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-10,1424470
+1143527,5,0,0,0,1,S,"Senate Labor, Culture and the Arts: Passed, With Amendments",2022-02-14,1562544
+1171557,7,0,0,0,1,H,"House Culture, Arts, & International Affairs: Passed, With Amendments",2022-03-16,1562544
+1179660,11,0,0,0,1,H,"House Judiciary & Hawaiian Affairs: Passed, With Amendments",2022-03-29,1562544
+1195645,3,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-28,1562544
+1196206,3,0,1,0,1,H,"House Conference: Passed, With Amendments",2022-04-28,1562544
+918258,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-07,1309922
+918259,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-07,1309922
+928889,9,0,4,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-20,1309922
+951956,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-03-13,1309922
+951957,6,1,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-03-13,1309922
+970091,14,0,1,0,1,H,"House Finance: Passed, With Amendments",2020-06-29,1309922
+1136594,5,0,0,0,1,S,"Senate Education: Passed, With Amendments",2022-02-07,1570530
+1151116,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-22,1570530
+1174940,10,0,3,0,1,H,"House Education: Passed, With Amendments",2022-03-22,1570530
+1174941,7,0,1,0,1,H,"House Economic Development: Passed, With Amendments",2022-03-22,1570530
+1184259,13,0,2,0,1,H,"House Finance: Passed, Unamended",2022-04-05,1570530
+907527,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-02-05,1289057
+907528,10,0,1,0,1,H,"House Judiciary: Passed, Unamended",2019-02-14,1289057
+907529,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-02-22,1289057
+907530,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-03-15,1289057
+907531,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-03-15,1289057
+1005493,4,1,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2021-02-12,1417926
+1005494,3,2,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-12,1417926
+1020257,5,2,0,0,1,S,"Senate Judiciary: Passed, With Amendments",2021-03-02,1417926
+1031397,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-18,1417926
+1031398,8,0,0,0,1,H,"House Water & Land: Passed, With Amendments",2021-03-18,1417926
+1041480,11,0,1,0,1,H,"House Judiciary & Hawaiian Affairs: Passed, With Amendments",2021-03-30,1417926
+1057546,3,0,1,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-20,1417926
+1058087,5,0,0,0,1,H,"House Conference: Passed, With Amendments",2021-04-20,1417926
+1005399,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-12,1417821
+1005400,4,0,1,0,1,S,"Senate Health: Passed, With Amendments",2021-02-12,1417821
+1012874,6,0,1,0,1,S,"Senate Commerce and Consumer Protection: Passed, With Amendments",2021-02-23,1417821
+1043702,10,0,1,0,1,H,"House Consumer Protection & Commerce: Passed, With Amendments",2021-04-01,1417821
+1061015,3,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-22,1417821
+1061016,3,0,0,0,1,H,"House Conference: Passed, With Amendments",2021-04-22,1417821
+910977,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-13,1290496
+910978,3,0,2,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-02-13,1290496
+910979,5,0,0,0,1,S,"Senate Judiciary: Passed, With Amendments",2019-02-26,1290496
+910980,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-02-26,1290496
+955587,3,0,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-02-13,1290496
+909882,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-08,1290233
+909883,5,0,0,0,1,S,"Senate Judiciary: Passed, With Amendments",2019-02-27,1290233
+909884,4,0,3,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2019-02-27,1290233
+1141115,11,0,1,0,1,H,"House Education: Passed, With Amendments",2022-02-10,1572261
+1138516,4,0,1,0,1,S,"Senate Transportation: Passed, With Amendments",2022-02-08,1570523
+1154327,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-24,1570523
+1173114,7,0,2,0,1,H,"House Transportation: Passed, With Amendments",2022-03-18,1570523
+1182123,14,0,1,0,1,H,"House Finance: Passed, Unamended",2022-04-01,1570523
+1196674,2,0,1,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-29,1570523
+1196675,5,0,1,0,1,H,"House Conference: Passed, With Amendments",2022-04-29,1570523
+1134963,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2022-02-03,1570511
+1140952,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2022-02-10,1570511
+1155467,14,0,1,0,1,H,"House Finance: Passed, Unamended",2022-02-25,1570511
+1169348,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-03-14,1570511
+909243,5,0,0,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, Unamended",2019-02-11,1290055
+909244,9,0,4,0,1,S,"Senate Ways and Means: Passed, Unamended",2019-02-19,1290055
+909245,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-03-12,1290055
+955676,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, Unamended",2019-02-11,1290055
+919923,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-11,1317644
+919924,7,0,1,0,1,H,"House Health: Passed, With Amendments",2020-02-11,1317644
+935551,13,0,2,0,1,H,"House Finance: Passed, Unamended",2020-02-26,1317644
+951911,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-03-13,1317644
+996747,5,0,0,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-04,1420415
+1022254,7,0,0,0,1,S,"Senate Commerce and Consumer Protection: Passed, Unamended",2021-03-04,1420415
+1022255,11,0,0,0,1,S,"Senate Ways and Means: Passed, Unamended",2021-03-04,1420415
+1029812,6,1,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-16,1420415
+1035628,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-03-23,1420415
+1119191,5,0,0,0,1,S,"Senate Transportation: Passed, With Amendments",2021-02-04,1540648
+1119192,7,0,0,0,1,S,"Senate Commerce and Consumer Protection: Passed, Unamended",2021-03-04,1540648
+1119193,11,0,0,0,1,S,"Senate Ways and Means: Passed, Unamended",2021-03-04,1540648
+1119194,6,1,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-16,1540648
+1119195,11,0,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-03-23,1540648
+1142234,5,0,0,0,1,S,"Senate Water and Land: Passed, With Amendments",2022-02-11,1562540
+1150698,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-22,1570747
+908630,7,0,1,0,1,H,"House Health: Passed, With Amendments",2019-02-14,1289589
+908631,8,0,3,0,1,H,"House Judiciary: Passed, With Amendments",2019-02-26,1289589
+908632,6,0,1,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2019-03-13,1289589
+916773,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-06,1312514
+916774,6,0,1,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-06,1312514
+934907,9,0,3,0,1,H,"House Judiciary: Passed, Unamended",2020-02-25,1312514
+1003383,6,0,2,0,1,H,"House Culture, Arts, & International Affairs: Passed, With Amendments",2021-02-10,1420146
+1118491,6,0,2,0,1,H,"House Culture, Arts, & International Affairs: Passed, With Amendments",2021-02-10,1539741
+908038,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-22,1291275
+1139163,7,0,0,0,1,H,"House Culture, Arts, & International Affairs: Passed, With Amendments",2022-02-09,1570882
+1119083,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-03,1540489
+1119084,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-23,1540489
+1119085,7,0,0,0,1,S,"Senate Judiciary: Passed, With Amendments",2021-02-23,1540489
+1119086,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-16,1540489
+908106,6,0,2,0,1,H,"House Labor & Public Employment: Passed, With Amendments",2019-02-12,1291083
+995343,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2021-02-03,1419506
+1012459,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-23,1419506
+1013350,7,0,0,0,1,S,"Senate Judiciary: Passed, With Amendments",2021-02-23,1419506
+1029371,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-03-16,1419506
+1005295,8,0,0,0,1,H,"House Transportation: Passed, With Amendments",2021-02-12,1419908
+1016426,13,0,2,0,1,H,"House Finance: Passed, Unamended",2021-02-25,1419908
+1034984,4,0,1,0,1,S,"Senate Transportation: Passed, With Amendments",2021-03-23,1419908
+1043860,11,0,0,0,1,S,"Senate Ways and Means: Passed, Unamended",2021-04-01,1419908
+1118370,8,0,0,0,1,H,"House Transportation: Passed, With Amendments",2021-02-12,1539583
+1118371,13,0,2,0,1,H,"House Finance: Passed, Unamended",2021-02-25,1539583
+1118372,4,0,1,0,1,S,"Senate Transportation: Passed, With Amendments",2021-03-23,1539583
+1118373,11,0,0,0,1,S,"Senate Ways and Means: Passed, Unamended",2021-04-01,1539583
+1118494,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-03,1539744
+1118495,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-26,1539744
+1183887,7,0,1,0,1,H,"House Labor & Tourism: Passed, With Amendments",2022-04-05,1539744
+1183888,13,0,2,0,1,H,"House Finance: Passed, With Amendments",2022-04-05,1539744
+909998,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-01-29,1314268
+1145574,4,0,1,0,1,S,"Senate Transportation: Passed, With Amendments",2022-02-15,1569607
+1154640,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-24,1569607
+1173041,7,0,2,0,1,H,"House Transportation: Passed, With Amendments",2022-03-18,1569607
+1160049,7,0,1,0,1,H,"House Water & Land: Passed, With Amendments",2022-03-02,1570566
+1160050,7,3,1,0,1,H,"House Judiciary & Hawaiian Affairs: Passed, With Amendments",2022-03-02,1570566
+1160051,14,0,1,0,1,H,"House Finance: Passed, With Amendments",2022-03-02,1570566
+1175488,5,0,0,0,1,S,"Senate Higher Education: Passed, With Amendments",2022-03-23,1570566
+1186324,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-04-08,1570566
+1196522,4,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-29,1570566
+1196523,4,0,1,0,1,H,"House Conference: Passed, With Amendments",2022-04-29,1570566
+916008,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-05,1314894
+938111,4,0,1,0,1,S,"Senate Judiciary: Passed, Unamended",2020-02-27,1314894
+968046,4,0,3,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-06-22,1314894
+913758,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-03,1314406
+931406,4,0,3,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, Unamended",2020-02-21,1314406
+931407,3,0,2,0,1,S,"Senate Judiciary: Passed, Unamended",2020-02-21,1314406
+914777,5,0,0,0,1,S,"Senate Labor, Culture and the Arts: Passed, With Amendments",2020-02-04,1319144
+929079,11,0,2,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-20,1319144
+951055,10,0,2,0,1,H,"House Judiciary: Passed, Unamended",2020-03-12,1319144
+907287,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-11,1291451
+907288,3,0,2,0,1,S,"Senate Public Safety, Intergovernmental and Military Affairs: Passed, With Amendments",2019-02-11,1291451
+912041,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-01-30,1312628
+918244,3,0,2,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-07,1316580
+918245,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-07,1316580
+934754,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-25,1316580
+996766,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1420260
+1118173,7,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-04,1539324
+907309,6,0,2,0,1,H,"House Economic Development & Business: Passed, With Amendments",2019-02-13,1291452
+907310,14,0,1,0,1,H,"House Finance: Passed, With Amendments",2019-02-27,1291452
+907311,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-03-13,1291452
+915828,5,0,3,0,1,H,"House Economic Development & Business: Passed, With Amendments",2020-02-05,1314568
+928491,15,0,0,0,1,H,"House Finance: Passed, Unamended",2020-02-20,1314568
+912153,8,0,0,0,1,H,"House Health: Passed, With Amendments",2020-01-30,1316357
+1139598,7,0,0,0,1,H,"House Culture, Arts, & International Affairs: Passed, With Amendments",2022-02-09,1572171
+907980,3,0,2,0,1,S,"Senate Public Safety, Intergovernmental and Military Affairs: Passed, With Amendments",2019-02-06,1290424
+907981,4,0,1,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-02-06,1290424
+907982,10,0,3,0,1,S,"Senate Ways and Means: Passed, With Amendments",2019-02-25,1290424
+907983,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-03-14,1290424
+955505,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-02-06,1290424
+1002224,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1426544
+1117931,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2021-02-09,1539032
+1138570,9,0,3,0,1,H,"House Education: Passed, With Amendments",2022-02-08,1572691
+1138571,6,0,2,0,1,H,"House Economic Development: Passed, With Amendments",2022-02-08,1572691
+1133471,5,0,0,0,1,S,"Senate Agriculture and Environment: Passed, Unamended",2022-02-02,1569760
+1152858,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-23,1569760
+998643,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-08,1420589
+1008451,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-17,1420589
+1027792,6,0,2,0,1,H,"House Economic Development: Passed, With Amendments",2021-03-12,1420589
+1047886,15,0,0,0,1,H,"House Finance: Passed, With Amendments",2021-04-07,1420589
+1118154,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2021-02-08,1539299
+1118155,10,0,1,0,1,S,"Senate Ways and Means: Passed, With Amendments",2021-02-17,1539299
+1118156,6,0,2,0,1,H,"House Economic Development: Passed, With Amendments",2021-03-12,1539299
+1118157,15,0,0,0,1,H,"House Finance: Passed, With Amendments",2021-04-07,1539299
+913759,5,0,0,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2020-02-03,1317833
+913760,4,0,1,0,1,S,"Senate Transportation: Passed, With Amendments",2020-02-03,1317833
+955620,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2020-02-03,1317833
+918249,4,0,1,0,1,S,"Senate Transportation: Passed, With Amendments",2020-02-07,1317968
+918250,5,0,2,0,1,S,"Senate Commerce, Consumer Protection, and Health: Passed, With Amendments",2020-02-07,1317968
+936553,9,0,4,0,1,S,"Senate Ways and Means: Passed, With Amendments",2020-02-26,1317968
+936554,4,0,1,0,1,S,"Senate Judiciary: Passed, With Amendments",2020-02-26,1317968
+916969,7,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2020-02-06,1312929
+1002783,6,1,2,0,1,H,"House Government Reform: Passed, With Amendments",2021-02-10,1419742
+1009448,10,1,0,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2021-02-18,1419742
+1019888,15,0,0,0,1,H,"House Finance: Passed, Unamended",2021-03-02,1419742
+1034768,7,0,0,0,1,S,"Senate Commerce and Consumer Protection: Passed, With Amendments",2021-03-23,1419742
+1035434,5,0,0,0,1,S,"Senate Government Operations: Passed, With Amendments",2021-03-23,1419742
+1049685,10,0,1,0,1,S,"Senate Ways and Means: Passed, Unamended",2021-04-09,1419742
+1059136,3,0,1,0,1,H,"House Conference: Passed, With Amendments",2021-04-21,1419742
+1059137,3,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2021-04-21,1419742
+1135634,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, Unamended",2022-02-04,1567132
+1154536,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-24,1567132
+912118,9,0,2,0,1,H,"House Lower and Higher Education: Passed, With Amendments",2020-01-30,1319260
+932987,14,0,1,0,1,H,"House Finance: Passed, With Amendments",2020-02-24,1319260
+1146824,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2022-02-16,1568892
+1154554,11,0,0,0,1,S,"Senate Ways and Means: Passed, With Amendments",2022-02-24,1568892
+1154555,6,0,1,0,1,S,"Senate Commerce and Consumer Protection: Passed, With Amendments",2022-02-24,1568892
+1172012,8,0,0,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2022-03-17,1568892
+1174533,9,0,2,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2022-03-22,1568892
+1184811,15,0,0,0,1,H,"House Finance: Passed, Unamended",2022-04-06,1568892
+1196503,4,0,0,0,1,S,"Senate Conference: Passed, With Amendments",2022-04-29,1568892
+1196504,5,0,0,0,1,H,"House Conference: Passed, With Amendments",2022-04-29,1568892
+997362,7,0,1,0,1,H,"House Corrections, Military, & Veterans: Passed, With Amendments",2021-02-05,1419994
+1119288,7,0,1,0,1,H,"House Corrections, Military, & Veterans: Passed, With Amendments",2021-02-05,1540777
+918221,7,0,0,0,1,H,"House Water, Land, & Hawaiian Affairs: Passed, With Amendments",2020-02-07,1317727
+1139789,5,0,0,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2022-02-09,1564406
+1139790,4,0,1,0,1,S,"Senate Government Operations: Passed, With Amendments",2022-02-09,1564406
+918269,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2020-02-07,1314346
+918270,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2020-02-07,1314346
+910830,6,0,1,0,1,H,"House Energy & Environmental Protection: Passed, With Amendments",2019-01-29,1288815
+910831,9,0,2,0,1,H,"House Consumer Protection & Commerce: Passed, Unamended",2019-02-12,1288815
+910832,14,0,1,0,1,H,"House Finance: Passed, Unamended",2019-02-22,1288815
+910833,4,0,1,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-03-11,1288815
+955591,4,0,1,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-03-11,1288815
+910486,4,0,1,0,1,S,"Senate Agriculture and Environment: Passed, With Amendments",2019-02-13,1291400
+910487,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-13,1291400
+907656,3,0,2,0,1,S,"Senate Economic Development, Environment, and Technology: Passed, With Amendments",2019-02-08,1289112
+907657,3,0,2,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-02-08,1289112
+955625,3,0,2,0,1,S,"Senate Energy, Economic Development, and Tourism: Passed, With Amendments",2019-02-08,1289112
+909123,4,0,1,0,1,S,"Senate Water and Land: Passed, With Amendments",2019-01-30,1289781
+909124,4,0,1,0,1,S,"Senate Judiciary: Passed, With Amendments",2019-02-22,1289781
+484316,43,7,0,0,1,S,Passed Senate,2015-03-31,742536
+484590,26,24,0,0,1,S,Passed Senate,2015-04-29,774594
+484591,57,42,0,1,1,H,Passed House,2015-05-05,774594
+484592,27,23,0,0,1,S,Passed Senate,2015-06-04,774594
+484593,83,8,0,9,1,H,Passed House,2015-06-04,774594
+628132,31,19,0,0,1,S,Passed Senate,2017-04-19,1006460
+628133,57,40,0,3,1,H,Passed House,2017-04-19,1006460
+653740,31,19,0,0,1,S,Passed Senate,1969-12-31,1006460
+653741,57,40,0,3,1,H,Passed House,1969-12-31,1006460
+1061814,70,39,2,2,1,H,Third Reading in House,2021-04-23,1458431
+1087523,43,11,0,5,1,S,Third Reading in Senate,2021-05-28,1458431
+30884,54,0,0,0,1,S,Third Reading in Senate,2009-04-02,30351
+30885,114,0,0,0,1,H,Third Reading in House,2009-05-14,30351
+30886,53,0,0,1,1,S,Concurrence in Senate,2009-05-27,30351
+11097,56,0,0,3,1,S,Third Reading in Senate,2010-03-18,58505
+11098,106,2,0,1,1,H,Third Reading in House,2010-04-23,58505
+11099,48,0,0,11,1,S,Concurrence in Senate,2010-05-03,58505
+29232,100,18,0,0,1,H,Third Reading in House,2009-04-02,35433
+29233,44,7,0,3,1,S,Third Reading in Senate,2009-05-30,35433
+29234,89,28,0,0,1,H,Concurrence in House,2009-05-31,35433
+349621,53,1,0,5,1,S,Third Reading in Senate,2014-04-01,612609
+367981,115,0,1,0,1,H,Third Reading in House,2014-05-28,612609
+65962,52,0,0,7,1,S,Third Reading in Senate,2011-03-31,264150
+1061343,112,0,1,1,1,H,Third Reading in House,2021-04-22,1421045
+1088151,59,0,0,0,1,S,Motion in Senate,2021-05-29,1421045
+1166483,48,0,0,10,1,S,Third Reading in Senate,2022-03-09,1465645
+1178723,110,0,3,1,1,H,Third Reading in House,2022-03-29,1465645
+437863,58,0,0,1,1,S,Third Reading in Senate,2015-04-23,731493
+453196,116,0,0,0,1,H,Third Reading in House,2015-05-28,731493
+744943,105,0,1,1,1,H,Third Reading in House,2018-04-27,1091977
+755908,52,0,0,7,1,S,Third Reading in Senate,2018-05-24,1091977
+758503,107,0,0,3,1,H,Concurrence in House,2018-05-31,1091977
+1155260,54,0,0,4,1,S,Third Reading in Senate,2022-02-25,1568509
+1181968,105,0,3,2,1,H,Third Reading in House,2022-04-01,1568509
+261257,106,5,3,0,1,H,Third Reading in House,2013-04-09,511802
+280128,50,0,0,9,1,S,Third Reading in Senate,2013-05-16,511802
+1155284,39,14,0,5,1,S,Third Reading in Senate,2022-02-25,1568410
+1185899,83,25,0,6,1,H,Third Reading in House,2022-04-07,1568410
+1186161,40,17,0,2,1,S,Concurrence in Senate,2022-04-08,1568410
+60220,113,2,1,0,1,H,Third Reading in House,2011-03-30,288833
+79351,55,0,0,4,1,S,Third Reading in Senate,2011-05-12,288833
+843578,55,0,0,4,1,S,Third Reading in Senate,2019-04-12,1207562
+870456,116,0,0,0,1,H,Third Reading in House,2019-05-23,1207562
+353064,111,3,0,0,1,H,Third Reading in House,2014-04-08,621157
+77198,54,0,0,5,1,S,Third Reading in Senate,2011-05-03,262583
+82219,110,1,0,0,1,H,Third Reading in House,2011-05-20,262583
+162904,117,0,1,0,1,H,Third Reading in House,2012-02-28,389814
+196536,57,0,0,2,1,S,Third Reading in Senate,2012-05-17,389814
+745063,64,25,5,4,1,H,Third Reading in House,2018-04-27,1038389
+758274,35,16,0,8,1,S,Third Reading in Senate,2018-05-31,1038389
+758275,65,42,0,4,1,H,Concurrence in House,2018-05-31,1038389
+354807,64,43,1,1,1,H,Third Reading in House,2014-04-10,620445
+366564,37,18,0,4,1,S,Third Reading in Senate,2014-05-23,620445
+368446,75,40,0,0,1,H,Concurrence in House,2014-05-29,620445
+368447,75,40,0,0,1,H,Concurrence in House,2014-05-29,620445
+1055473,108,0,0,0,1,H,Third Reading in House,2021-04-16,1438166
+1055631,108,0,0,0,1,H,Motion in House,2021-04-16,1438166
+1088298,52,5,0,2,1,S,Third Reading in Senate,2021-05-30,1438166
+1088902,116,0,0,2,1,H,Concurrence in House,2021-05-31,1438166
+1088903,116,0,0,2,1,H,Concurrence in House,2021-05-31,1438166
+29956,54,0,0,0,1,S,Third Reading in Senate,2009-03-25,29062
+29957,115,0,0,1,1,H,Third Reading in House,2009-04-28,29062
+178740,61,49,1,4,1,H,Third Reading in House,2012-03-28,392441
+199347,29,21,0,9,0,S,Third Reading in Senate,2012-05-29,392441
+632278,58,0,0,1,1,S,Third Reading in Senate,2017-04-26,949239
+654859,115,0,1,1,1,H,Third Reading in House,2017-05-30,949239
+655456,56,0,0,3,1,S,Concurrence in Senate,2017-05-31,949239
+744238,52,0,0,7,1,S,Third Reading in Senate,2018-04-26,1091636
+756836,113,0,1,2,1,H,Third Reading in House,2018-05-28,1091636
+418199,56,0,0,3,1,S,Third Reading in Senate,2015-03-26,702460
+444307,112,0,0,0,1,H,Third Reading in House,2015-05-07,702460
+1062042,58,0,0,1,1,S,Motion in Senate,2021-04-23,1468903
+1108219,83,33,0,0,1,H,Third Reading in House,2021-09-09,1468903
+1108672,37,17,0,5,1,S,Concurrence in Senate,2021-09-13,1468903
+1108673,37,17,0,5,1,S,Concurrence in Senate,2021-09-13,1468903
+1108674,37,17,0,5,1,S,Concurrence in Senate,2021-09-13,1468903
+839263,112,0,0,1,1,H,Third Reading in House,2019-04-09,1204004
+865644,55,0,0,4,1,S,Third Reading in Senate,2019-05-16,1204004
+633917,116,1,0,1,1,H,Third Reading in House,2017-04-27,948850
+653762,56,0,0,3,1,S,Third Reading in Senate,2017-05-30,948850
+179447,41,10,0,8,1,S,Third Reading in Senate,2012-03-28,261819
+198242,78,37,0,2,1,H,Third Reading in House,2012-05-24,261819
+199444,36,13,0,10,1,S,Concurrence in Senate,2012-05-29,261819
+744514,50,0,0,9,1,S,Third Reading in Senate,2018-04-26,1070462
+755892,79,26,1,3,1,H,Third Reading in House,2018-05-24,1070462
+778691,53,0,0,6,1,S,Motion in Senate,2018-11-14,1070462
+778894,75,30,1,7,1,H,Motion in House,2018-11-27,1070462
+1163468,104,0,2,1,1,H,Motion in House,2022-03-03,1562710
+1185413,58,0,0,1,1,S,Third Reading in Senate,2022-04-07,1562710
+438907,111,0,1,0,1,H,Third Reading in House,2015-04-24,730189
+448088,52,0,0,7,1,S,Third Reading in Senate,2015-05-19,730189
+454754,112,0,0,0,1,H,Concurrence in House,2015-05-31,730189
+436670,116,0,0,1,1,H,Third Reading in House,2015-04-22,729115
+448763,57,0,0,2,1,S,Third Reading in Senate,2015-05-20,729115
+631129,113,2,0,1,1,H,Third Reading in House,2017-04-25,964794
+652550,55,0,0,4,1,S,Third Reading in Senate,2017-05-29,964794
+243419,115,0,1,0,1,H,Third Reading in House,2013-03-08,486758
+285393,57,0,0,2,1,S,Third Reading in Senate,2013-05-30,486758
+642089,56,0,0,3,1,S,Third Reading in Senate,2017-05-10,956506
+653752,116,0,1,1,1,H,Third Reading in House,2017-05-30,956506
+655247,48,7,0,4,1,S,Concurrence in Senate,2017-05-31,956506
+1107319,39,16,0,4,1,S,Third Reading in Senate,2021-08-31,1429777
+843231,68,38,1,2,1,H,Third Reading in House,2019-04-12,1144244
+1061141,108,5,1,0,1,H,Motion in House,2021-04-22,1454270
+1061561,108,5,1,0,1,H,Third Reading in House,2021-04-22,1454270
+1085381,55,0,0,4,1,S,Third Reading in Senate,2021-05-26,1454270
+1088392,115,0,1,0,1,H,Concurrence in House,2021-05-30,1454270
+1088393,115,0,1,0,1,H,Concurrence in House,2021-05-30,1454270
+103228,116,0,0,0,1,H,Third Reading in House,2011-10-26,250268
+103315,56,0,0,3,1,S,Third Reading in Senate,2011-11-09,250268
+652934,32,19,0,8,1,S,Third Reading in Senate,2017-05-29,929489
+678925,58,50,4,1,1,H,Motion in House,2017-11-08,929489
+60222,114,0,0,0,1,H,Third Reading in House,2011-03-29,287898
+79322,56,0,0,3,1,S,Third Reading in Senate,2011-05-12,287898
+835770,66,46,1,0,1,H,Third Reading in House,2019-04-04,1201662
+870851,37,19,0,3,1,S,Third Reading in Senate,2019-05-23,1201662
+874404,73,42,0,1,1,H,Concurrence in House,2019-05-29,1201662
+615818,101,10,0,3,1,H,Third Reading in House,2017-03-30,954169
+649658,51,0,0,8,1,S,Third Reading in Senate,2017-05-25,954169
+836088,109,1,1,0,1,H,Third Reading in House,2019-04-04,1162583
+1062005,58,0,0,1,1,S,Motion in Senate,2021-04-23,1466375
+1085962,112,0,2,0,1,H,Third Reading in House,2021-05-26,1466375
+1061846,110,0,2,0,1,H,Third Reading in House,2021-04-23,1454304
+1088221,59,0,0,0,1,S,Motion in Senate,2021-05-29,1454304
+1079720,55,0,0,4,1,S,Third Reading in Senate,2021-05-19,1463143
+1086718,117,0,0,0,1,H,Third Reading in House,2021-05-27,1463143
+742463,112,0,0,1,1,H,Third Reading in House,2018-04-24,1092010
+756990,57,0,0,2,1,S,Third Reading in Senate,2018-05-29,1092010
+835528,107,2,0,4,1,H,Third Reading in House,2019-04-04,1190354
+871727,39,17,0,3,1,S,Third Reading in Senate,2019-05-24,1190354
+31326,51,2,0,6,1,S,Third Reading in Senate,2010-03-24,58489
+31327,108,0,0,1,1,H,Third Reading in House,2010-04-23,58489
+1072939,51,0,0,8,1,S,Third Reading in Senate,2021-05-05,1468472
+1088098,65,42,0,6,1,H,Third Reading in House,2021-05-29,1468472
+69497,86,10,8,0,1,H,Third Reading in House,2011-04-15,289248
+103323,56,0,0,3,1,S,Third Reading in Senate,2011-11-09,289248
+179258,53,0,0,6,1,S,Third Reading in Senate,2012-03-28,385728
+195575,114,0,0,0,1,H,Third Reading in House,2012-05-10,385728
+13616,50,2,0,7,1,S,Third Reading in Senate,2010-03-10,57500
+841600,56,0,0,3,1,S,Third Reading in Senate,2019-04-10,1207702
+870550,109,1,0,5,1,H,Third Reading in House,2019-05-23,1207702
+474811,112,6,7,0,1,H,House Emergency Final Action - Substitute passed - Yea: 112 Nay: 6,2015-05-07,711643
+474812,39,0,1,0,1,S,Senate Emergency Final Action - Passed - Yea: 39 Nay: 0,2015-05-21,711643
+77875,55,60,9,0,0,H,House Committee of the Whole - Motion to recommend favorably for passage failed - Yea: 55 Nay: 60,2011-05-06,316241
+145619,55,60,9,0,0,H,House Committee of the Whole - Motion to recommend favorably for passage failed - Yea: 55 Nay: 60,2011-05-06,316241
+1021190,97,0,3,0,1,H,House: Third Reading RCS# 193,2021-03-03,1394452
+726722,95,0,5,0,1,H,House: Third Reading RCS# 304,2018-03-14,1096821
+732084,37,0,1,0,1,S,Senate: Third Reading RSN# 686,2018-03-29,1096821
+1166714,97,0,3,0,1,H,House: Third Reading RCS# 240,2022-03-09,1597735
+922929,91,0,7,0,1,H,House: Third Reading RCS# 109,2020-02-13,1318876
+953428,31,0,7,0,1,S,Senate: Third Reading RSN# 1381,2020-03-18,1318876
+863598,81,0,24,0,1,H,House Vote on HB 294 FINAL PASSAGE (#283),2019-05-14,1246027
+863896,82,0,23,0,1,H,House Vote on HB 294 FINAL PASSAGE (#283),2019-05-14,1246027
+876195,24,9,6,0,1,S,Senate Vote on HB 294 FINAL PASSAGE (#752),2019-06-01,1246027
+1064771,102,0,2,0,1,H,House Vote on HB 409 FINAL PASSAGE (#115),2021-04-28,1490627
+1089200,37,0,1,0,1,S,Senate Vote on HB 409 FINAL PASSAGE (#620),2021-06-01,1490627
+1091285,99,0,6,0,1,H,House Vote on HB 409 CONCUR IN SENATE AMENDMENTS (#954),2021-06-03,1490627
+959052,97,0,8,0,1,H,House Vote on HB 371 HB 371 BY TURNER (#75),2020-05-15,1352430
+960724,31,0,8,0,1,S,Senate Vote on HB 371 FINAL PASSAGE (#387),2020-05-27,1352430
+961788,97,0,7,0,1,H,House Vote on HB 371 CONCUR IN SENATE AMENDMENTS (#653),2020-05-31,1352430
+446004,39,0,0,0,1,S,Senate Vote on SB 255 FINAL PASSAGE (#315),2015-05-13,766969
+446005,27,0,12,0,1,S,Senate Vote on SB 255 CO-AUTHORS (#316),2015-05-13,766969
+457122,86,0,19,0,1,H,House Vote on SB 255 FINAL PASSAGE (#796),2015-06-04,766969
+457845,39,0,0,0,1,S,Senate Vote on SB 255 CONCUR (#982),2015-06-08,766969
+1179049,101,0,3,0,1,H,House Vote on HB 197 FINAL PASSAGE (#116),2022-03-29,1597730
+1205226,37,0,1,0,1,S,Senate Vote on HB 197 FINAL PASSAGE (#663),2022-05-17,1597730
+1173405,37,0,2,0,1,S,Senate Vote on SB 205 FINAL PASSAGE (#25),2022-03-21,1601443
+1202342,96,0,9,0,1,H,House Vote on SB 205 FINAL PASSAGE (#745),2022-05-10,1601443
+1064706,37,0,2,0,1,S,Senate Vote on SB 230 FINAL PASSAGE (#160),2021-04-28,1491141
+1064707,32,0,7,0,1,S,Senate Vote on SB 230 CO-AUTHORS (#161),2021-04-28,1491141
+1089180,102,0,3,0,1,H,House Vote on SB 230 FINAL PASSAGE (#893),2021-06-01,1491141
+1090021,36,0,2,0,1,S,Senate Vote on SB 230 CONCUR (#675),2021-06-02,1491141
+548237,48,44,13,0,1,H,House Vote on HB 1159 FINAL PASSAGE (#1053),2016-05-25,876391
+1079313,89,0,16,0,1,H,House Vote on HB 218 FINAL PASSAGE (#512),2021-05-18,1488466
+1093096,36,1,1,0,1,S,Senate Vote on HB 218 FINAL PASSAGE (#890),2021-06-07,1488466
+1094710,98,0,7,0,1,H,House Vote on HB 218 CONCUR IN SENATE AMENDMENTS (#1098),2021-06-08,1488466
+183522,37,0,2,0,1,S,"Senate Vote on SB 309, FINAL PASSAGE (#285)",2012-04-09,409656
+200708,96,0,9,0,1,H,"House Vote on SB 309, FINAL PASSAGE (#1411)",2012-05-31,409656
+414321,94,45,2,0,1,H,House Floor - Third Reading Passed (94-45),2015-03-17,719473
+428673,35,12,0,0,1,S,Senate Floor - Third Reading Passed (35-12),2015-03-31,719473
+429343,96,42,1,2,1,H,House Floor - Third Reading Passed (96-42),2015-04-02,719473
+407799,14,33,0,0,0,S,Senate Floor - Floor Amendment (Jennings) {563828/1 Rejected (14-33),2015-03-06,711084
+407800,21,25,0,1,0,S,Senate Floor - Floor Amendment (Edwards) {723427/1 Rejected (21-25),2015-03-06,711084
+407801,14,33,0,0,0,S,Senate Floor - Floor Amendment (Bates) {103125/1 Rejected (14-33),2015-03-06,711084
+410235,32,14,1,0,1,S,Senate Floor - Third Reading Passed (32-14),2015-03-10,711084
+429416,98,42,1,0,1,H,House Floor - Third Reading Passed (98-42),2015-04-02,711084
+429809,35,12,0,0,1,S,Senate Floor - Third Reading Passed (35-12),2015-04-02,711084
+1023494,94,38,8,1,1,H,Third Reading Passed,2021-03-05,1389964
+1043250,33,14,0,0,1,S,Third Reading Passed,2021-03-30,1389964
+1052943,96,42,3,0,1,H,Third Reading Passed,2021-04-10,1389964
+1170234,16,30,0,1,0,S,Floor Amendment 433824/1 (Senator Cassilly) Rejected,2022-03-10,1578114
+1171210,33,14,0,0,1,S,Third Reading Passed,2022-03-14,1578114
+1181830,94,40,6,1,1,H,Third Reading Passed,2022-03-30,1578114
+1169040,47,82,6,6,0,H,Floor Amendment 323124/1 (Delegate Chisholm) Rejected,2022-03-09,1581495
+1170311,94,41,5,1,1,H,Third Reading Passed,2022-03-11,1581495
+1185033,33,14,0,0,1,S,Third Reading Passed,2022-03-31,1581495
+1028828,94,40,4,3,1,H,Third Reading Passed,2021-03-12,1390705
+1042729,33,14,0,0,1,S,Third Reading Passed,2021-03-29,1390705
+1017785,31,14,2,0,1,S,Third Reading Passed,2021-02-24,1389727
+1043932,93,41,6,1,1,H,Third Reading Passed,2021-04-01,1389727
+954906,32,14,0,1,1,S,Third Reading Passed,2020-03-11,1326385
+714815,102,34,7,6,1,H,House Floor - Third Reading Passed (101-33),2018-03-01,1036231
+732729,37,11,1,1,1,S,Senate Floor - Third Reading Passed (36-10),2018-03-27,1036231
+719268,51,84,8,6,0,H,House Floor - Floor Amendment {893829/1 (Delegate Fisher) Rejected (50-83),2018-03-07,1083058
+720360,91,49,8,1,1,H,House Floor - Third Reading Passed (90-48),2018-03-08,1083058
+735391,93,45,8,3,1,H,House Floor - Third Reading Passed (92-44),2018-03-31,1083058
+735392,45,1,4,1,1,S,Senate Floor - Third Reading Passed (44-0),2018-04-01,1083058
+1170095,16,31,0,0,0,S,Floor Amendment 343227/1 (Senator Gallion) Rejected,2022-03-10,1575778
+1170096,19,26,0,2,0,S,Floor Amendment 233020/1 (Senator Ready) Rejected,2022-03-10,1575778
+1170097,23,22,0,2,0,S,Floor Amendment 703826/1 (Senator Beidle) Adopted,2022-03-10,1575778
+1170098,20,27,0,0,0,S,Floor Amendment 523124/1 (Senator Simonaire) Rejected,2022-03-10,1575778
+1170099,5,42,0,0,0,S,Floor Amendment 153924/1 (Senator Simonaire) Rejected,2022-03-10,1575778
+1170100,2,43,0,2,0,S,Floor Amendment 623126/1 (Senator Simonaire) Rejected,2022-03-10,1575778
+1170101,17,28,0,2,0,S,Floor Amendment 303926/1 (Senator Salling) Rejected,2022-03-10,1575778
+1170102,16,31,0,0,0,S,Floor Amendment 273125/1 (Senator Hershey) Rejected,2022-03-10,1575778
+1170103,19,26,0,2,0,S,Floor Amendment 553425/1 (Senator Hershey) Rejected,2022-03-10,1575778
+1170104,12,27,0,8,0,S,Floor Amendment 103428/1 (Senator Carozza) Rejected,2022-03-10,1575778
+1170105,15,27,0,5,0,S,Floor Amendment 463924/1 (Senator Edwards) Rejected,2022-03-10,1575778
+1170106,30,14,0,3,1,S,Floor Amendment 923322/1 (Senator Rosapepe) Adopted,2022-03-10,1575778
+1170107,15,29,0,3,0,S,Floor Amendment 403922/1 (Senator Salling) Rejected,2022-03-10,1575778
+1170108,15,29,0,3,0,S,Floor Amendment 323524/1 (Senator Cassilly) Rejected,2022-03-10,1575778
+1170109,17,27,0,3,0,S,Floor Amendment 373723/1 (Senator Hershey) Rejected,2022-03-10,1575778
+1170110,16,28,0,3,0,S,Floor Amendment 743628/1 (Senator Bailey) Rejected,2022-03-10,1575778
+1171164,32,15,0,0,1,S,Third Reading Passed,2022-03-14,1575778
+1181593,45,92,4,0,0,H,Floor Amendment 883621/1 (Delegate Chisholm) Rejected,2022-03-29,1575778
+1181594,45,92,4,0,0,H,Floor Amendment 133728/1 (Delegate Rose) Rejected,2022-03-29,1575778
+1181595,36,93,4,8,0,H,Floor Amendment 333925/1 (Delegate Buckel) Rejected,2022-03-29,1575778
+1181596,40,91,4,6,0,H,Floor Amendment 183423/1 (Delegate Hartman) Rejected,2022-03-29,1575778
+1181597,39,95,4,3,0,H,Floor Amendment 843126/1 (Delegate Griffith) Rejected,2022-03-29,1575778
+1181598,43,89,4,5,0,H,Floor Amendment 683920/1 (Delegate Morgan) Rejected,2022-03-29,1575778
+1181599,38,93,4,6,0,H,Floor Amendment 353329/1 (Delegate Shoemaker) Rejected,2022-03-29,1575778
+1181600,39,94,4,4,0,H,Floor Amendment 543829/1 (Delegate Krebs) Rejected,2022-03-29,1575778
+1181601,42,89,4,6,0,H,Floor Amendment 483023/1 (Delegate M. Fisher) Rejected,2022-03-29,1575778
+1181602,40,95,4,2,0,H,Floor Amendment 583320/1 (Delegate Szeliga) Rejected,2022-03-29,1575778
+1181603,43,91,4,3,0,H,Floor Amendment 313026/1 (Delegate Mangione) Rejected,2022-03-29,1575778
+1181604,41,92,4,4,0,H,Floor Amendment 903627/1 (Delegate Shoemaker) Rejected,2022-03-29,1575778
+1181605,41,93,4,3,0,H,Floor Amendment 953822/1 (Delegate Metzgar) Rejected,2022-03-29,1575778
+1181606,41,94,4,2,0,H,Floor Amendment 563124/1 (Delegate M. Fisher) Rejected,2022-03-29,1575778
+1181607,95,42,4,0,1,H,Third Reading Passed with Amendments,2022-03-29,1575778
+1184985,31,15,0,1,1,S,Senate Concurs House Amendments,2022-03-29,1575778
+1184986,32,15,0,0,1,S,Third Reading Passed,2022-03-29,1575778
+700763,37,11,3,1,1,S,Senate Floor - Third Reading Passed (36-10),2018-02-12,1058099
+735308,96,34,9,10,1,H,House Floor - Third Reading Passed (95-33),2018-03-29,1058099
+1010934,47,0,0,0,1,S,Third Reading Passed,2021-02-10,1390748
+1048622,95,40,4,2,1,H,Third Reading Passed,2021-04-06,1390748
+1051138,45,0,0,2,1,S,Third Reading Passed,2021-04-07,1390748
+1023266,99,34,8,0,1,H,Third Reading Passed,2021-03-05,1390480
+1048598,46,0,1,0,1,S,Third Reading Passed,2021-04-02,1390480
+947747,44,1,2,0,1,S,Third Reading Passed,2020-03-06,1321190
+954882,44,1,2,0,1,S,Third Reading Passed,2020-03-17,1321190
+954883,111,20,7,3,1,H,Third Reading Passed,2020-03-17,1321190
+952214,110,20,7,4,1,H,Third Reading Passed,2020-03-15,1319986
+954102,44,1,2,0,1,S,Third Reading Passed,2020-03-17,1319986
+1026463,16,31,0,0,0,S,Floor Amendment 873929/1 (Senator Gallion) Rejected,2021-03-09,1412881
+1026464,16,30,0,1,0,S,Floor Amendment 173424/1 (Senator Hough) Rejected,2021-03-09,1412881
+1029217,15,31,1,0,0,S,Floor Amendment 133626/1 (Senator Hough) Rejected,2021-03-10,1412881
+1029218,15,31,1,0,0,S,Floor Amendment 413921/1 (Senator Ready) Rejected,2021-03-10,1412881
+1029219,15,31,1,0,0,S,Floor Amendment 783622/1 (Senator Salling) Rejected,2021-03-10,1412881
+1029220,15,31,1,0,0,S,Floor Amendment 963728/1 (Senator Hershey) Rejected,2021-03-10,1412881
+1029221,15,31,1,0,0,S,Floor Amendment 203021/1 (Senator Edwards) Rejected,2021-03-10,1412881
+1029222,15,31,1,0,0,S,Floor Amendment 253629/1 (Senator West) Rejected,2021-03-10,1412881
+1031429,34,11,2,0,1,S,Third Reading Passed,2021-03-12,1412881
+1052388,95,42,4,0,1,H,Third Reading Passed,2021-04-10,1412881
+1177545,46,0,1,0,1,S,Third Reading Passed,2022-03-18,1581353
+1190114,120,10,6,5,1,H,Third Reading Passed,2022-04-11,1581353
+416153,134,3,4,0,1,H,House Floor - Third Reading Passed (134-3),2015-03-19,724681
+425295,47,0,0,0,1,S,Senate Floor - Third Reading Passed (47-0),2015-03-26,724681
+429454,137,2,1,1,1,H,House Floor - Third Reading Passed (137-2),2015-04-02,724681
+1188970,124,11,4,2,1,H,Third Reading Passed,2022-04-11,1578071
+954329,133,0,7,1,1,H,Third Reading Passed,2020-03-17,1316782
+416060,136,0,4,1,1,H,House Floor - Third Reading Passed (136-0),2015-03-19,722032
+430396,46,0,1,0,1,S,Senate Floor - Third Reading Passed (46-0),2015-04-04,722032
+433067,133,0,2,6,1,H,House Floor - Third Reading Passed (133-0),2015-04-08,722032
+344917,102,30,4,5,1,H,House Floor - Third Reading Passed (102-30),2014-03-11,580229
+352790,46,0,0,1,1,S,Senate Floor - Third Reading Passed with Amendments (46-0),2014-03-28,580229
+353593,104,32,3,2,1,H,House Floor - Third Reading Passed (104-32),2014-04-02,580229
+828925,103,35,10,1,1,H,House Floor - Third Reading Passed (102-34),2019-03-17,1191456
+521477,134,0,6,1,1,H,House Floor - Third Reading Passed (134-0),2016-03-17,846961
+529757,46,0,1,0,1,S,Senate Floor - Third Reading Passed (46-0),2016-04-01,846961
+955179,46,0,1,0,1,S,Third Reading Passed,2020-03-13,1327090
+820198,48,1,1,1,1,S,Senate Floor - Third Reading Passed (47-0),2019-03-11,1188788
+502726,13,34,0,0,0,S,Senate Floor - Floor Amendment (Hough) {823122/1 Rejected (13-34),2016-02-18,828541
+505405,38,8,1,0,1,S,Senate Floor - Third Reading Passed (38-8),2016-02-23,828541
+526505,97,39,4,1,1,H,House Floor - Third Reading Passed (97-39),2016-03-25,828541
+521361,48,91,0,2,0,H,House Floor - Floor Amendment (Beitzel) {273224/2 Rejected (48-91),2016-03-14,836918
+521362,47,90,0,4,0,H,House Floor - Floor Amendment (Buckel) {263425/1 Rejected (47-90),2016-03-14,836918
+521363,47,92,0,2,0,H,House Floor - Floor Amendment (B. Wilson) {333328/1 Rejected (47-92),2016-03-14,836918
+521481,101,37,2,1,1,H,House Floor - Third Reading Passed (101-37),2016-03-15,836918
+530601,44,2,1,0,1,S,Senate Floor - Third Reading Passed (44-2),2016-04-03,836918
+1026826,47,0,0,0,1,S,Third Reading Passed,2021-03-09,1433234
+1052453,106,31,2,2,1,H,Third Reading Passed,2021-04-12,1433234
+1058928,46,0,0,1,1,S,Third Reading Passed,2021-04-12,1433234
+1034832,121,14,5,1,1,H,Third Reading Passed,2021-03-22,1439836
+1051834,46,0,0,1,1,S,Third Reading Passed,2021-04-08,1439836
+1053388,102,35,3,1,1,H,Third Reading Passed,2021-04-10,1439836
+137862,15,31,1,0,0,S,Motion Special Order until later today (Pipkin) Rejected ,2010-04-07,122810
+137863,16,30,0,1,0,S,Floor Amendment (Pipkin) {383325/1 Rejected ,2010-04-07,122810
+137864,14,30,0,3,0,S,Floor Amendment (Pipkin) {593527/1 Rejected ,2010-04-07,122810
+137865,13,30,0,4,0,S,Motion Special Order until later today (Pipkin) Rejected ,2010-04-07,122810
+137866,31,14,0,2,1,S,Third Reading Passed ,2010-04-07,122810
+725314,136,4,8,1,1,H,House Floor - Third Reading Passed (135-3),2018-03-15,1084040
+736304,47,1,1,1,1,S,Senate Floor - Third Reading Passed (46-0),2018-04-05,1084040
+260783,32,15,0,0,1,S,Senate Floor - Third Reading Passed  (32-15),2013-04-02,486088
+727222,48,1,1,1,1,S,Senate Floor - Third Reading Passed (47-0),2018-03-17,1075322
+735094,131,1,9,8,1,H,House Floor - Third Reading Passed (130-0),2018-03-29,1075322
+736789,47,1,1,1,1,S,Senate Floor - Third Reading Passed (46-0),2018-04-04,1075322
+1032366,114,21,5,1,1,H,Third Reading Passed,2021-03-18,1407682
+1044430,47,0,0,0,1,S,Third Reading Passed,2021-03-31,1407682
+1049124,107,25,5,4,1,H,Third Reading Passed,2021-04-06,1407682
+1051293,47,0,0,0,1,S,Third Reading Passed,2021-04-07,1407682
+734939,137,2,8,2,1,H,House Floor - Third Reading Passed (136-1),2018-03-28,1080750
+736866,47,1,1,1,1,S,Senate Floor - Third Reading Passed (46-0),2018-04-05,1080750
+833624,98,33,5,5,1,H,House Floor - Third Reading Passed (98-33),2019-03-21,1209494
+839641,45,0,1,1,1,S,Senate Floor - Third Reading Passed (45-0),2019-03-31,1209494
+954905,47,0,0,0,1,S,Third Reading Passed,2020-03-11,1327125
+341777,95,40,5,1,1,H,House Floor - Third Reading Passed (95-40),2014-03-09,608469
+353968,47,0,0,0,1,S,Senate Floor - Third Reading Passed (47-0),2014-03-27,608469
+820586,48,1,1,1,1,S,Senate Floor - Third Reading Passed (47-0),2019-03-11,1188811
+837802,103,32,6,0,1,H,House Floor - Third Reading Passed (103-32),2019-03-29,1188811
+51445,138,0,1,2,1,H,Third Reading Passed ,2011-03-11,248542
+63223,46,0,1,0,1,S,Third Reading Passed ,2011-03-31,248542
+40651,46,0,0,0,1,S,Third Reading Passed ,2011-02-17,232384
+63100,139,0,2,0,1,H,Third Reading Passed ,2011-03-31,232384
+137193,12,29,1,5,0,S,Motion Special Order until later today (Pipkin) Rejected ,2010-04-07,124004
+137194,31,14,1,1,1,S,Motion limit debate (Kasemeyer) Adopted ,2010-04-07,124004
+137195,15,30,1,1,0,S,Floor Amendment (Pipkin) {223920/1 Rejected ,2010-04-07,124004
+137196,14,31,1,1,0,S,Floor Amendment (Pipkin) {103021/1 Rejected ,2010-04-07,124004
+137197,37,9,0,1,1,S,Third Reading Passed ,2010-04-09,124004
+1170004,47,0,0,0,1,S,Third Reading Passed,2022-03-10,1567387
+1186142,125,4,10,2,1,H,Third Reading Passed,2022-04-04,1567387
+1190862,46,0,0,1,1,S,Third Reading Passed,2022-04-05,1567387
+1172812,134,5,2,0,1,H,Third Reading Passed,2022-03-16,1576678
+1191002,47,0,0,0,1,S,Third Reading Passed,2022-04-08,1576678
+1010830,46,0,1,0,1,S,Third Reading Passed,2021-02-16,1389813
+1052941,108,28,2,3,1,H,Third Reading Passed,2021-04-12,1389813
+522273,92,43,5,1,1,H,House Floor - Third Reading Passed (92-43),2016-03-18,845345
+530801,16,29,1,1,0,S,Senate Floor - Floor Amendment (Hough) {343522/1 Rejected (16-29),2016-04-06,845345
+530802,32,14,1,0,1,S,Senate Floor - Third Reading Passed (32-14),2016-04-06,845345
+531544,92,46,0,3,1,H,House Floor - Third Reading Passed (92-46),2016-04-07,845345
+576768,88,51,0,0,1,H,House Floor - Veto override (88-51),2017-01-31,845345
+576769,32,13,1,0,1,S,Senate Floor - Veto override (32-13),2017-02-02,845345
+529881,44,0,3,0,1,S,Senate Floor - Third Reading Passed (44-0),2016-04-02,840698
+531771,46,0,1,0,1,S,Senate Floor - Third Reading Passed (46-0),2016-04-07,840698
+531772,114,27,0,0,1,H,House Floor - Third Reading Passed (114-27),2016-04-08,840698
+415548,139,0,2,0,1,H,House Floor - Third Reading Passed (139-0),2015-03-18,724978
+425294,47,0,0,0,1,S,Senate Floor - Third Reading Passed (47-0),2015-03-26,724978
+429395,139,0,1,1,1,H,House Floor - Third Reading Passed (139-0),2015-04-02,724978
+1031264,41,88,5,7,0,H,Floor Amendment 243928/1 (Delegate Szeliga) Rejected,2021-03-17,1407629
+1031265,40,89,5,7,0,H,Floor Amendment 793622/1 (Delegate Szeliga) Rejected,2021-03-17,1407629
+1032559,98,38,3,2,1,H,Third Reading Passed,2021-03-18,1407629
+1054988,47,0,0,0,1,S,Third Reading Passed,2021-04-12,1407629
+1031525,45,0,2,0,1,S,Third Reading Passed,2021-03-12,1390380
+1052472,95,39,5,2,1,H,Third Reading Passed,2021-04-10,1390380
+528031,132,2,6,1,1,H,House Floor - Third Reading Passed (132-2),2016-03-28,845293
+530697,46,0,1,0,1,S,Senate Floor - Third Reading Passed (46-0),2016-04-05,845293
+1156133,101,33,6,1,1,H,Third Reading Passed,2022-02-24,1542226
+950516,99,38,3,1,1,H,Third Reading Passed,2020-03-11,1309538
+1031594,98,37,5,1,1,H,Third Reading Passed,2021-03-17,1389545
+521654,51,88,1,1,0,H,House Floor - Floor Amendment (Flanagan) {413224/1 Rejected (51-88),2016-03-16,843695
+521655,84,51,6,0,1,H,House Floor - Third Reading Passed (84-51),2016-03-17,843695
+526815,15,29,2,1,0,S,Senate Floor - Motion Re-referred Finance (Hershey) Rejected (15-29),2016-03-26,843695
+526816,30,15,2,0,1,S,Senate Floor - Motion limit debate (Pugh) Adopted (30-15),2016-03-26,843695
+526817,28,16,2,1,1,S,Senate Floor - Favorable with Amendments Adopted (28-16),2016-03-26,843695
+526906,17,29,1,0,0,S,Senate Floor - Floor Amendment (Hershey) {453329/1 Rejected (17-29),2016-03-27,843695
+526907,17,29,1,0,0,S,Senate Floor - Floor Amendment (Ready) {733129/1 Rejected (17-29),2016-03-27,843695
+526908,17,29,1,0,0,S,Senate Floor - Floor Amendment (Jennings) {183229/2 Rejected (17-29),2016-03-27,843695
+526909,17,29,1,0,0,S,Senate Floor - Floor Amendment (Jennings) {593029/1 Rejected (17-29),2016-03-27,843695
+526910,18,28,1,0,0,S,Senate Floor - Floor Amendment (Jennings) {483924/1 Rejected (18-28),2016-03-27,843695
+526911,17,29,1,0,0,S,Senate Floor - Floor Amendment (Cassilly) {263922/1 Rejected (17-29),2016-03-27,843695
+526912,17,27,2,1,0,S,Senate Floor - Floor Amendment (Jennings) {593125/1 Rejected (17-27),2016-03-27,843695
+526913,17,27,2,1,0,S,Senate Floor - Floor Amendment (Reilly) {703021/1 Rejected (17-27),2016-03-27,843695
+526914,17,27,2,1,0,S,Senate Floor - Floor Amendment (Hershey) {953926/1 Rejected (17-27),2016-03-27,843695
+526915,17,28,2,0,0,S,Senate Floor - Floor Amendment (Hershey) {953925/1 Rejected (17-28),2016-03-27,843695
+526916,28,17,2,0,1,S,Senate Floor - Third Reading Passed with Amendments (28-17),2016-03-27,843695
+527229,49,85,6,1,0,H,House Floor - Motion Special Order until 4/4 (Kipke) Rejected (49-85),2016-03-26,843695
+527230,83,51,6,1,1,H,House Floor - Third Reading Passed (83-51),2016-03-26,843695
+529765,29,17,1,0,1,S,Senate Floor - overridden (29-17),2016-04-02,843695
+530464,88,52,1,0,1,H,House Floor - overridden (88-52),2016-03-31,843695
+259785,128,9,2,2,1,H,House Floor - Third Reading Passed  (128-9),2013-03-29,492550
+812245,30,19,1,1,1,S,Senate Floor - Favorable with Amendments Adopted (29-18),2019-02-28,1180386
+813710,26,22,1,2,1,S,Senate Floor - Third Reading Passed (25-21),2019-03-04,1180386
+840114,97,40,3,1,1,H,House Floor - Third Reading Passed (97-40),2019-04-02,1180386
+725070,139,1,8,1,1,H,House Floor - Third Reading Passed (138-0),2018-03-15,1085207
+735097,45,1,4,1,1,S,Senate Floor - Third Reading Passed (44-0),2018-04-01,1085207
+736778,141,1,6,1,1,H,House Floor - Third Reading Passed (140-0),2018-04-02,1085207
+1038527,98,34,6,3,1,H,Third Reading Passed,2021-03-25,1429195
+1055170,47,0,0,0,1,S,Third Reading Passed,2021-04-12,1429195
+1042852,47,0,0,0,1,S,Third Reading Passed,2021-03-30,1438689
+1052580,102,36,2,1,1,H,Third Reading Passed,2021-04-12,1438689
+840090,93,40,4,4,1,H,House Floor - Third Reading Passed (93-40),2019-04-02,1163063
+416136,134,3,4,0,1,H,House Floor - Third Reading Passed (134-3),2015-03-19,724785
+425282,10,37,0,0,0,S,Senate Floor - Floor Amendment (Madaleno) {883226/1 Rejected (10-37),2015-03-26,724785
+425283,10,37,0,0,0,S,Senate Floor - Floor Amendment (Kagan01) {203920/4 Rejected (10-37),2015-03-26,724785
+425284,42,5,0,0,1,S,Senate Floor - Third Reading Passed (42-5),2015-03-26,724785
+431892,44,1,1,1,1,S,Senate Floor - Third Reading Passed (44-1),2015-04-07,724785
+433058,136,3,2,0,1,H,House Floor - Third Reading Passed (136-3),2015-04-08,724785
+825496,14,34,2,1,0,S,Senate Floor - Floor Amendment {413422/1 (Senator Hershey) Rejected (13-33),2019-03-17,1188672
+825497,35,13,2,1,1,S,Senate Floor - Floor Amendment {403723/1 (Senator Hough) Adopted (34-12),2019-03-17,1188672
+826411,34,14,2,1,1,S,Senate Floor - Third Reading Passed (33-13),2019-03-18,1188672
+837839,33,77,3,28,0,H,House Floor - Floor Amendment {943029/1 (Delegate Grammer) Rejected (33-77),2019-03-30,1188672
+837840,43,93,3,2,0,H,House Floor - Floor Amendment {643629/1 (Delegate Morgan) Rejected (43-93),2019-03-30,1188672
+840172,40,92,3,6,0,H,House Floor - Floor Amendment {883727/1 (Delegate M. Fisher) Rejected (40-92),2019-04-01,1188672
+840173,42,90,3,6,0,H,House Floor - Floor Amendment {553422/1 (Delegate M. Fisher) Rejected (42-90),2019-04-01,1188672
+840174,41,94,3,3,0,H,House Floor - Floor Amendment {793129/1 (Delegate Arentz) Rejected (41-94),2019-04-01,1188672
+840175,95,41,3,2,1,H,House Floor - Third Reading Passed with Amendments (95-41),2019-04-01,1188672
+840176,40,91,3,7,0,H,House Floor - Floor Amendment {423625/1 (Delegate Wivell) Rejected (40-91),2019-04-01,1188672
+840177,36,93,3,9,0,H,House Floor - Floor Amendment {733129/1 (Delegate Adams) Rejected (36-93),2019-04-01,1188672
+840178,40,93,3,5,0,H,House Floor - Floor Amendment {763921/1 (Delegate Cox) Rejected (40-93),2019-04-01,1188672
+840179,38,86,3,14,0,H,House Floor - Floor Amendment {883823/1 (Delegate Adams) Rejected (38-86),2019-04-01,1188672
+840180,91,39,3,8,1,H,House Floor - Motion Vote Previous Question (Delegate Gilchrist) Adopted (91-39),2019-04-01,1188672
+840181,43,90,3,5,0,H,House Floor - Floor Amendment {653828/1 (Delegate Mautz) Rejected (43-90),2019-04-01,1188672
+840182,40,93,3,5,0,H,House Floor - Floor Amendment {143628/1 (Delegate Miller) Rejected (40-93),2019-04-01,1188672
+840535,31,15,1,0,1,S,Senate Floor - Motion Limit Debate (Senator Guzzone) Adopted (31-15),2019-04-02,1188672
+840536,31,15,1,0,1,S,Senate Floor - Third Reading Passed (31-15),2019-04-02,1188672
+840537,31,15,1,0,1,S,Senate Floor - Senate Concurs House Amendments (31-15),2019-04-02,1188672
+528394,14,31,1,1,0,S,Senate Floor - Floor Amendment (Serafini) {813023/1 Rejected (14-31),2016-03-30,840672
+528395,15,31,1,0,0,S,Senate Floor - Floor Amendment (Ready) {663129/1 Rejected (15-31),2016-03-30,840672
+528396,22,22,1,2,0,S,Senate Floor - Floor Amendment (Hough) {503023/1 Rejected (22-22),2016-03-30,840672
+529101,31,14,1,1,1,S,Senate Floor - Third Reading Passed (31-14),2016-03-31,840672
+531687,91,48,0,2,1,H,House Floor - Third Reading Passed (91-48),2016-04-07,840672
+1025149,47,0,0,0,1,S,Third Reading Passed,2021-03-04,1389238
+1049000,113,23,2,3,1,H,Third Reading Passed,2021-04-07,1389238
+1011595,133,2,3,2,1,H,Third Reading Passed,2021-02-11,1390233
+1055420,47,0,0,0,1,S,Third Reading Passed,2021-04-12,1390233
+879376,107,29,14,0,1,H,Enactment - Emer RC #209,2019-06-07,1255942
+305984,83,55,13,0,1,H,Acc Maj Otp As Amended Rep RC #255,2013-06-10,521500
+305985,98,50,3,0,0,H,Reconsideration - Veto RC #405,2013-06-26,521500
+305986,24,11,0,0,1,S,Final Passage RC #260,2013-06-12,521500
+1151846,81,55,12,0,1,H,Acc Maj Otp As Amended Rep RC #456,2022-02-23,1492736
+1166694,20,11,3,0,1,S,Accept Maj Otp-a Rpt RC #592,2022-03-09,1492736
+1166695,20,10,4,0,1,S,Pass To Be Engrossed As Amend RC #593,2022-03-09,1492736
+1098117,80,58,13,0,1,H,Acc Maj Otp As Amended Rep RC #294,2021-06-15,1505757
+1091469,80,62,9,0,1,H,Acc Maj Ought Not To Pass Rep RC #116,2021-06-03,1493335
+1183112,20,12,2,0,1,S,Accept Maj Otp-a Rpt RC #699,2022-04-05,1487139
+1186713,68,49,30,0,1,H,Acc Maj Otp As Amended Rep RC #543,2022-04-11,1503298
+1187720,54,72,21,0,0,H,Recede And Concur RC #561,2022-04-13,1503298
+1188418,24,10,0,0,1,S,Insist RC #750,2022-04-14,1503298
+1185887,73,43,31,0,1,H,Acc Maj Otp As Amended Rep RC #532,2022-04-07,1437114
+305987,140,9,2,0,1,H,Acc Ought To Pass As Amend Rep RC #386,2013-06-19,525243
+1188877,28,2,4,0,1,S,Accept Maj Otp-a Rpt RC #756,2022-04-15,1510515
+950322,19,10,6,0,1,S,Recede And Concur RC #421,2020-03-12,1257236
+952838,14,16,5,0,0,S,Reconsider RC #428,2020-03-17,1257236
+1096797,82,53,16,0,1,H,Acc Maj Otp As Amended Rep RC #236,2021-06-10,1506163
+1097603,23,12,0,0,1,S,Accept Maj Otp-a Rpt RC #324,2021-06-14,1506163
+1098189,84,55,12,0,1,H,Acc Maj Otp As Amended Rep RC #300,2021-06-15,1437421
+1103134,81,62,8,0,1,H,Recede And Concur RC #390,2021-06-30,1437421
+890162,21,11,3,0,1,S,Passage To Be Engrossed RC #364,2019-08-26,1273364
+890163,21,11,3,0,0,S,Enact-bond Issue 2/3 Vote RC #370,2019-08-26,1273364
+890164,86,47,18,0,0,H,Enactment - Bond Issue RC #329,2019-08-26,1273364
+1189572,19,15,0,0,1,S,Accept Rpt 'a' Otp-a RC #779,2022-04-19,1581770
+1189573,20,14,0,0,1,S,Adopt Sas-575 To Cas-550 RC #780,2022-04-19,1581770
+1189574,20,14,0,0,1,S,Pass To Be Engrossed As Amend RC #781,2022-04-19,1581770
+1189721,51,83,13,0,0,H,Acc Report 'a' Otp As Amend RC #593,2022-04-19,1581770
+1189722,43,91,13,0,0,H,Acc Report 'b' Otp As Amend RC #594,2022-04-19,1581770
+1189723,36,98,13,0,0,H,Table Until Later RC #595,2022-04-19,1581770
+1189724,100,34,13,0,1,H,Indef Postpone Bill & Papers RC #596,2022-04-19,1581770
+1190021,18,16,0,0,1,S,Recede And Concur RC #797,2022-04-19,1581770
+1190390,77,56,14,0,1,H,Adopt Hah-1043 To Cas-550 RC #604,2022-04-20,1581770
+1191770,19,10,5,0,1,S,Enactment RC #806,2022-04-25,1581770
+950985,19,10,6,0,1,S,Accept Rpt 'a' Otp-a RC #423,2020-03-12,1292856
+774286,3,0,0,0,1,S,Reported Favorably Without Amendment,2018-09-05,1121298
+774287,31,4,2,0,1,S,Senate Third Reading: Passed Roll Call # 560,2018-09-05,1121298
+774326,35,0,2,0,1,S,Senate Third Reading: Passed Roll Call # 559,2018-09-05,1121298
+774910,5,0,0,0,1,H,Reported With Recommendation With Substitute H-1,2018-09-26,1121298
+775270,5,0,0,0,1,H,Reported With Recommendation With Substitute  H-1,2018-09-26,1121298
+779990,107,2,0,0,1,H,House Third Reading: Given Immediate Effect Roll Call # 720,2018-12-06,1121298
+780340,37,0,1,0,1,S,Senate Third Reading: Roll Call # 744,2018-12-11,1121298
+680982,9,0,0,0,1,H,Reported With Recommendation With Substitute  H-2,2017-12-13,1027040
+686302,98,10,0,0,1,H,House Third Reading: Given Immediate Effect Roll Call # 12,2018-01-17,1027040
+727813,5,0,0,0,1,S,Reported Favorably Without Amendment,2018-03-22,1027040
+738348,32,2,2,1,1,S,Senate Third Reading: Given Immediate Effect Roll Call # 191,2018-04-12,1027040
+778938,4,0,0,0,1,S,Reported Favorably With Substitute S-2,2018-11-27,1122021
+780002,9,0,0,0,1,H,Reported With Recommendation Without Amendment,2018-12-05,1122021
+781140,106,3,0,0,1,H,House Third Reading: Given Immediate Effect Roll Call # 852,2018-12-18,1122021
+781250,38,0,0,0,1,S,Senate Third Reading: Roll Call # 837,2018-12-18,1122021
+781782,38,0,0,0,1,S,Senate Third Reading: Passed Roll Call # 609,2018-11-28,1122021
+959223,59,8,0,0,1,S,Senate: Third reading Passed,2020-05-17,1224761
+965106,58,74,0,0,0,H,House: 74 - Amendment - Nays,2020-05-15,1224761
+965107,84,49,0,0,1,H,House: CALENDAR FOR THE DAY,2020-05-15,1224761
+541501,50,10,0,0,1,S,Senate: Third reading Passed,2016-05-03,865502
+545634,44,84,0,0,0,H,House: Amendment to Amendment,2016-05-13,865502
+545635,70,58,0,0,1,H,House: Amendment,2016-05-13,865502
+545636,72,57,0,0,1,H,House: Amendment,2016-05-13,865502
+545637,59,71,0,0,0,H,House: Amendment,2016-05-13,865502
+545638,56,74,0,0,0,H,House: Amendment to Amendment,2016-05-13,865502
+545639,57,73,0,0,0,H,House: Amendment,2016-05-13,865502
+545640,56,74,0,0,0,H,House: Amendment,2016-05-13,865502
+545641,56,74,0,0,0,H,House: Amendment,2016-05-13,865502
+545642,110,19,0,0,1,H,House: Passage,2016-05-13,865502
+547342,41,21,0,0,1,S,Senate: Third reading,2016-05-22,865502
+547343,91,40,0,0,1,H,House: Repassage,2016-05-22,865502
+1192615,72,60,0,0,1,H,House: Passage,2022-04-21,1597105
+1206170,36,28,0,0,1,S,Senate: Third reading Passed,2022-05-18,1597105
+1207352,115,19,0,0,1,H,House: H.F. NO. 3765,2022-05-21,1597105
+447392,72,57,0,0,1,H,House: Amendment,2015-05-16,715215
+447393,70,60,0,0,1,H,House: Amendment to Amendment,2015-05-16,715215
+447394,86,43,0,0,1,H,House: Amendment,2015-05-16,715215
+447395,100,30,0,0,1,H,House: Passage,2015-05-16,715215
+448244,106,26,0,0,1,H,House: Repassage,2015-05-18,715215
+485257,44,19,0,0,1,S,Senate: Third reading Passed,2015-05-11,715215
+485258,65,0,0,0,1,S,Senate: Third reading,2015-05-18,715215
+1074340,53,14,0,0,1,S,Senate: Third reading Passed,2021-05-06,1425088
+643698,42,21,0,0,1,S,Senate: Third reading Passed,2017-05-11,941981
+646641,60,73,0,0,0,H,House: Amendment,2017-05-18,941981
+646642,60,74,0,0,0,H,House: Amendment,2017-05-18,941981
+646643,61,73,0,0,0,H,House: Amendment,2017-05-18,941981
+646644,59,75,0,0,0,H,House: Amendment,2017-05-18,941981
+646645,59,75,0,0,0,H,House: Amendment,2017-05-18,941981
+646646,56,77,0,0,0,H,House: Amendment,2017-05-18,941981
+646647,59,74,0,0,0,H,House: Amendment to Amendment,2017-05-18,941981
+646648,61,72,0,0,0,H,House: Amendment,2017-05-18,941981
+646649,58,75,0,0,0,H,House: Amendment,2017-05-18,941981
+646650,82,52,0,0,1,H,House: Passage,2017-05-18,941981
+648581,51,10,0,0,1,S,Senate: Third reading,2017-05-22,941981
+648582,85,46,0,0,1,H,House: Adoption,2017-05-22,941981
+648583,84,49,0,0,1,H,House: Repassage,2017-05-22,941981
+950138,52,0,0,0,1,S,Senate Passed,2020-03-11,1340162
+1132974,114,4,0,4,1,H,House Passed,2022-02-02,1547492
+1167305,50,2,0,0,1,S,Senate Passed As Amended,2022-03-09,1547492
+1178777,121,0,0,1,1,H,House Conference Report Adopted,2022-03-29,1547492
+1179438,52,0,0,0,1,S,Senate Conference Report Adopted,2022-03-29,1547492
+961577,116,1,0,3,1,H,House Passed,2020-05-29,1367670
+968270,50,1,0,1,1,S,Senate Passed As Amended,2020-06-23,1367670
+969481,117,0,0,3,1,H,House Concurred in Amend From Senate,2020-06-26,1367670
+180083,119,0,0,3,1,H,House Passed As Amended,2012-03-28,413226
+186381,51,0,0,1,1,S,Senate Passed As Amended,2012-04-17,413226
+191124,122,0,0,0,1,H,House Conference Report Adopted,2012-04-29,413226
+191125,52,0,0,0,1,S,Senate Conference Report Adopted,2012-04-30,413226
+1138101,40,10,0,2,1,S,Senate Passed,2022-02-08,1563093
+1165665,111,7,0,4,1,H,House Passed As Amended,2022-03-08,1563093
+590896,52,0,0,0,1,S,Senate Passed,2017-02-22,960680
+600547,112,5,0,5,1,H,House Passed As Amended,2017-03-09,960680
+611774,104,5,0,13,1,H,House Conference Report Adopted,2017-03-26,960680
+612925,39,13,0,0,1,S,Senate Conference Report Adopted,2017-03-27,960680
+255546,100,0,0,0,1,H,(H) 2nd Reading Passed as Amended,2013-03-28,533184
+257216,95,2,3,0,1,H,(H) 3rd Reading Passed,2013-04-02,533184
+266140,44,6,0,0,1,S,(S) 2nd Reading Concurred,2013-04-16,533184
+267172,44,6,0,0,1,S,(S) 3rd Reading Concurred,2013-04-17,533184
+269082,99,0,1,0,1,H,(H) 2nd Reading Senate Amendments Concurred,2013-04-19,533184
+269154,97,0,3,0,1,H,(H) 3rd Reading Passed as Amended by Senate,2013-04-20,533184
+809396,19,0,0,0,1,H,(H) Business and Labor Committee Executive Action--Bill Passed as Amended,2019-02-26,1208733
+811064,87,12,1,0,1,H,(H) 2nd Reading Passed,2019-02-28,1208733
+811691,12,10,0,0,1,H,(H) Appropriations Committee Executive Action--Bill Passed as Amended,2019-02-28,1208733
+811692,86,14,0,0,1,H,(H) 2nd Reading Passed,2019-02-28,1208733
+811941,86,13,1,0,1,H,(H) 3rd Reading Passed,2019-03-01,1208733
+826799,10,0,0,0,1,S,"(S) Business, Labor, and Economic Affairs Committee Executive Action--Bill Concurred as Amended",2019-03-21,1208733
+835873,35,14,1,0,1,S,(S) 2nd Reading Concurred,2019-04-03,1208733
+836682,28,20,2,0,1,S,(S) 3rd Reading Concurred,2019-04-04,1208733
+839157,73,27,0,0,1,H,(H) 2nd Reading Senate Amendments Concurred,2019-04-09,1208733
+840840,69,30,1,0,1,H,(H) 3rd Reading Passed as Amended by Senate,2019-04-10,1208733
+604194,8,4,0,0,1,S,(S) Natural Resources Committee Executive Action--Bill Passed as Amended,2017-03-13,941413
+607733,18,32,0,0,0,S,(S) 2nd Reading Pass Motion Failed,2017-03-21,941413
+607734,34,16,0,0,1,S,(S) 2nd Reading Indefinitely Postponed,2017-03-21,941413
+48449,50,0,0,0,1,S,(S) 2nd Reading Passed,2011-02-22,263960
+48450,44,6,0,0,1,S,(S) 3rd Reading Passed,2011-02-23,263960
+59171,72,28,0,0,1,H,(H) 2nd Reading Concurred,2011-03-31,263960
+60391,70,28,2,0,1,H,(H) 3rd Reading Concurred,2011-04-01,263960
+126675,28,0,0,2,1,S,Amendment 1,2010-07-09,193578
+126679,28,0,0,2,1,S,Amendment 2,2010-07-09,193578
+126681,29,0,0,1,1,S,Amendment 3,2010-07-09,193578
+126684,29,0,0,1,1,S,Amendment 4,2010-07-09,193578
+126687,29,0,0,1,1,S,Second Reading,2010-07-09,193578
+846332,23,21,6,0,1,S,Second Reading,2019-04-17,1247624
+847582,21,16,13,0,1,S,Third Reading,2019-04-18,1247624
+847583,21,16,13,0,1,S,Amendment 1 Motion 1 To Table,2019-04-18,1247624
+889713,116,1,2,1,1,H,Second Reading,2019-07-15,1247624
+889803,3,42,5,0,0,S,Motion 9 To Concur,2019-07-22,1247624
+960675,48,0,2,0,1,S,Conference Rpt Motion 8 To Adopt,2020-05-27,1247624
+846398,44,0,6,0,1,S,Second Reading,2019-04-17,1248209
+889555,115,0,3,2,1,H,Second Reading,2019-07-10,1248209
+1076823,46,2,1,1,1,S,Second Reading,2021-05-12,1491812
+1076824,49,0,1,0,1,S,Amendment 2,2021-05-12,1491812
+1076825,49,0,1,0,1,S,Amendment 1,2021-05-12,1491812
+372883,116,0,3,1,1,H,Second Reading,2014-06-19,648981
+373727,111,0,5,4,1,H,Third Reading,2014-06-23,648981
+374657,44,0,5,1,1,S,Second Reading,2014-06-26,648981
+375184,48,0,1,1,1,S,Third Reading,2014-06-30,648981
+254801,118,0,1,1,1,H,R2 For Adoption,2013-03-27,535872
+1097800,47,0,3,0,1,S,Second Reading,2021-06-14,1490413
+1116294,104,6,10,0,1,H,Second Reading,2021-11-18,1490413
+91214,44,5,0,1,1,S,Second Reading,2011-06-08,305620
+91215,49,0,1,0,1,S,Amendment 1,2011-06-09,305620
+91216,48,1,1,0,1,S,Amendment 2,2011-06-09,305620
+91217,47,2,1,0,1,S,Third Reading,2011-06-09,305620
+94978,102,4,12,2,1,H,"A1 Moore, T.\Second Reading",2011-06-17,305620
+94979,104,0,12,4,1,H,A2 Horn\Second Reading,2011-06-17,305620
+94980,101,5,12,2,1,H,Second Reading,2011-06-17,305620
+94981,102,1,13,4,1,H,A3 Ross\Third Reading,2011-06-17,305620
+94982,42,1,5,2,1,S,House Amd 1-3\Motion 9\To Concur,2011-06-17,305620
+440259,112,6,1,1,1,H,A1 Harrison Second Reading,2015-04-28,768973
+440260,119,0,1,0,1,H,Second Reading,2015-04-28,768973
+553469,41,5,4,0,1,S,Second Reading,2016-06-16,768973
+554448,43,5,2,0,1,S,Amendment 1,2016-06-20,768973
+554449,46,2,2,0,1,S,Amendment 2,2016-06-20,768973
+554450,47,1,2,0,1,S,Amendment 3,2016-06-20,768973
+554451,20,28,2,0,0,S,Amendment 4,2016-06-20,768973
+554452,48,0,2,0,1,S,Amendment 5,2016-06-20,768973
+554453,48,0,2,0,1,S,Amendment 6,2016-06-20,768973
+554454,48,0,2,0,1,S,Amendment 7,2016-06-20,768973
+554455,48,0,2,0,1,S,Amendment 8,2016-06-20,768973
+554456,47,1,2,0,1,S,Amendment 9,2016-06-20,768973
+554457,18,30,2,0,0,S,Amendment 10,2016-06-20,768973
+554458,33,14,3,0,1,S,Third Reading,2016-06-20,768973
+1034223,117,0,2,1,1,H,Second Reading,2021-03-23,1476073
+1056121,29,18,3,0,1,S,Second Reading,2021-04-19,1476073
+1056122,47,0,3,0,1,S,Amendment 1,2021-04-19,1476073
+1058478,117,0,3,0,1,H,M11 Not Concur,2021-04-21,1476073
+1166874,44,4,2,0,1,S,Conference Report Motion 8 To Adopt,2022-03-09,1476073
+1167286,96,16,8,0,1,H,C RPT Adoption,2022-03-10,1476073
+78386,46,4,0,0,1,S,Amendment 1,2011-05-10,307675
+78387,38,12,0,0,1,S,Second Reading,2011-05-10,307675
+94549,52,62,2,4,0,H,A1 Harrison\Second Reading,2011-06-13,307675
+94550,114,0,2,4,1,H,A2 Justice\Second Reading,2011-06-13,307675
+94551,113,1,2,4,1,H,A3 Insko\Second Reading,2011-06-13,307675
+94552,110,2,2,6,1,H,A4 LaRoque\Second Reading,2011-06-13,307675
+94553,48,66,2,4,0,H,A5 Luebke\Second Reading,2011-06-13,307675
+94554,65,46,2,7,1,H,Second Reading,2011-06-13,307675
+94555,117,0,2,1,1,H,A6 Bradley\Third Reading,2011-06-14,307675
+94556,114,3,2,1,1,H,A7 Justice\Third Reading,2011-06-14,307675
+94557,68,49,2,1,1,H,Third Reading,2011-06-14,307675
+94558,0,50,0,0,0,S,Motion 9\To Concur,2011-06-15,307675
+94559,35,10,4,1,1,S,Conference Rpt\Motion 8\To Adopt,2011-06-16,307675
+94560,69,42,8,1,1,H,C Rpt Adopt,2011-06-18,307675
+99850,31,17,2,0,1,S,Motion 11\OVERRIDE VETO,2011-07-13,307675
+583162,90,0,4,0,1,H,House Second reading,2017-02-14,913980
+612278,45,0,2,0,1,S,Senate Second reading,2017-03-27,913980
+619745,87,0,7,0,1,H,House Second reading,2017-04-05,913980
+809384,37,0,2,10,1,L,Advanced to Enrollment and Review Initial,2019-02-21,1145975
+822673,43,0,5,1,1,L,Passed on Final Reading 43-0-6,2019-03-15,1145975
+527106,46,0,3,0,1,L,Passed on Final Reading 46-0-3,2016-04-01,819636
+485395,45,3,0,1,1,L,Passed on Final Reading with Emergency Clause 45-3-1,2015-02-20,671587
+1175057,9,31,4,5,0,L,Wayne motion to overrule Chair failed,2022-03-23,1557621
+1175058,39,0,5,5,1,L,Arch AM2508 adopted,2022-03-23,1557621
+1175059,43,0,2,4,1,L,DeBoer AM2472 adopted,2022-03-23,1557621
+1175294,33,0,2,14,1,L,Gragert AM2542 adopted,2022-03-23,1557621
+1175295,40,0,1,8,1,L,Brandt AM2444 adopted,2022-03-23,1557621
+1175296,37,1,1,10,1,L,Murman AM2544 adopted,2022-03-23,1557621
+1175297,11,18,3,17,0,L,Blood AM2543 lost,2022-03-23,1557621
+1175298,12,14,3,20,0,L,Wayne AM2552 lost,2022-03-23,1557621
+1175299,46,1,2,0,1,L,Stinner MO177 prevailed,2022-03-23,1557621
+1175300,29,1,2,17,1,L,Wayne AM2478 adopted,2022-03-23,1557621
+1175301,44,1,2,2,1,L,Appropriations AM2330 adopted,2022-03-23,1557621
+1175302,41,1,2,5,1,L,Advanced to Enrollment and Review Initial,2022-03-23,1557621
+1178041,39,0,8,2,1,L,Stinner AM2584 adopted,2022-03-28,1557621
+1178042,32,0,8,9,1,L,Linehan AM2610 adopted,2022-03-28,1557621
+1178043,26,7,7,9,1,L,Stinner AM2580 adopted,2022-03-28,1557621
+1178044,27,5,4,13,1,L,Morfeld AM2561 adopted,2022-03-28,1557621
+1178046,31,0,3,15,1,L,Linehan AM2608 adopted,2022-03-28,1557621
+1178047,30,2,4,13,1,L,Morfeld AM2616 adopted,2022-03-28,1557621
+1178048,34,4,4,7,1,L,Stinner MO185 prevailed,2022-03-28,1557621
+1178049,33,7,4,5,1,L,Advanced to Enrollment and Review for Engrossment,2022-03-28,1557621
+1181177,35,0,5,9,1,L,Returned to Select File for specific amendment,2022-03-31,1557621
+1181178,41,0,5,3,1,L,Wayne AM2652 adopted,2022-03-31,1557621
+1185498,40,4,1,4,1,L,Passed on Final Reading with Emergency Clause 40-4-5,2022-04-07,1557621
+951158,132,188,47,29,0,H,Table,2020-03-12,1287239
+951159,197,114,47,38,1,H,OTPA,2020-03-12,1287239
+1083984,13,9,2,0,1,S,Floor Amendment 1581s,2021-05-20,1393156
+1028117,14,10,0,0,1,S,Inexpedient to Legislate,2021-03-11,1430827
+927301,197,123,24,52,1,H,OTPA,2020-02-19,1292034
+951798,24,0,0,0,1,S,Ought to Pass w/Amendment,2020-03-12,1305989
+1200339,174,150,36,29,1,H,ITL,2022-05-05,1542784
+1191641,147,184,36,22,0,H,Remove From Table,2022-04-21,1542911
+825777,215,133,30,22,1,H,OTPA,2019-03-20,1152214
+866782,14,10,0,0,1,S,Ought to Pass w/Amendment,2019-05-15,1152214
+889202,14,10,0,0,1,S,Conference Committee Report,2019-06-27,1152214
+894320,221,157,11,8,1,H,Veto Override,2019-09-18,1152214
+823215,16,8,0,0,1,S,Ought to Pass w/Amendment,2019-03-14,1176439
+861337,205,145,30,20,1,H,OTP,2019-05-08,1176439
+894484,14,10,0,0,1,S,VETO MESSAGE - Roll Call Required,2019-09-19,1176439
+1028104,24,0,0,0,1,S,Laid on Table,2021-03-11,1411809
+967515,19,5,0,0,1,S,Ought to Pass w/Amendment,2020-06-16,1294048
+970326,254,75,39,23,1,H,Concur,2020-07-01,1294048
+409597,149,146,1,102,0,H,Ought to Pass,2015-03-11,701985
+173188,237,75,52,33,1,H,MIN AM 0645H (REP K.JONES),2012-03-15,348197
+187319,17,7,0,0,1,S,Refer to Interim Study,2012-04-18,348197
+900122,5,0,0,0,1,S,Senate Environment and Energy Committee: Reported with Amendments,2019-12-09,1279540
+900895,29,4,0,7,1,S,Senate Floor: Amend,2019-12-16,1279540
+900896,0,0,0,0,1,S,Senate Floor: Second Reading (Voice Vote),2019-12-16,1279540
+901750,29,8,0,3,1,S,Senate Floor: Third Reading - Final Passage,2020-01-09,1279540
+902274,53,20,0,7,1,A,Assembly Floor: Third Reading - Final Passage,2020-01-13,1279540
+902275,0,0,0,0,1,A,Assembly Floor: Substitute for A6014 (Voice Vote),2020-01-13,1279540
+900096,4,0,0,2,1,A,Assembly Environment and Solid Waste Committee: Reported with Amendments,2019-12-09,1287027
+900250,8,2,0,1,1,A,Assembly Appropriations Committee: Reported Favorably,2019-12-12,1287027
+1096971,4,0,0,2,1,A,Assembly Committee: Reported Favorably,2021-06-09,1513841
+1122482,4,0,0,2,1,A,Assembly Special Committee on Infrastructure and Natural Resources Committee: Reported Favorably,2021-06-09,1513841
+1096969,4,0,0,2,1,A,Assembly Committee: Reported Favorably,2021-06-09,1513799
+1122492,4,0,0,2,1,A,Assembly Special Committee on Infrastructure and Natural Resources Committee: Reported Favorably,2021-06-09,1513799
+779408,4,0,0,1,1,S,Senate Environment and Energy Committee: Reported Favorably,2018-12-03,1130890
+794658,11,1,0,0,1,S,Senate Budget and Appropriations Committee: Reported Favorably,2019-02-07,1130890
+806580,26,0,0,14,1,S,Senate Floor: Amend,2019-02-21,1130890
+806581,0,0,0,0,1,S,Senate Floor: Second Reading (Voice Vote),2019-02-21,1130890
+827666,29,6,0,5,1,S,Senate Floor: Third Reading - Final Passage,2019-03-25,1130890
+867291,8,2,0,1,1,A,Assembly Appropriations Committee: Reported Favorably,2019-05-20,1130890
+871860,65,9,0,6,1,A,Assembly Floor: Third Reading - Final Passage,2019-05-23,1130890
+871861,0,0,0,0,1,A,Assembly Floor: Substitute for A4821 (Voice Vote),2019-05-23,1130890
+786174,6,0,0,0,1,A,Assembly Environment and Solid Waste Committee: Reported Favorably,2019-01-24,1134001
+867697,8,2,0,1,1,A,Assembly Appropriations Committee: Reported with Amendments,2019-05-20,1134001
+786227,6,0,0,0,1,A,Assembly Environment and Solid Waste Committee: Reported with Amendments,2019-01-24,1079094
+786218,6,0,0,0,1,A,Assembly Environment and Solid Waste Committee: Reported with Amendments,2019-01-24,1128356
+866768,4,0,0,1,1,S,Senate Environment and Energy Committee: Reported with Amendments,2019-05-16,1132136
+885816,30,2,0,8,1,S,Senate Floor: Third Reading - Final Passage,2019-06-20,1132136
+900526,65,8,0,7,1,A,Assembly Floor: Third Reading - Final Passage,2019-12-16,1132136
+900527,0,0,0,0,1,A,Assembly Floor: Substitute for A4606 (Voice Vote),2019-12-16,1132136
+687031,4,1,0,0,1,S,Senate Environment and Energy Committee: Reported Favorably,2018-01-22,1054018
+693156,26,12,0,2,1,S,Senate Floor: Third Reading - Final Passage,2018-02-01,1054018
+705759,49,23,0,8,1,A,Assembly Floor: Third Reading - Final Passage,2018-02-15,1054018
+748020,0,0,0,0,1,A,Assembly Floor: Substitute for A1929 (Voice Vote),2018-02-15,1054018
+974305,4,1,0,0,1,S,Senate Environment and Energy Committee: Reported with Amendments,2020-07-29,1371836
+977257,28,11,0,1,1,S,Senate Floor: Third Reading - Final Passage,2020-08-27,1371836
+980501,4,2,0,0,1,A,Assembly Environment and Solid Waste Committee: Reported Favorably,2020-10-08,1371836
+983521,51,28,0,1,1,A,Assembly Floor: Third Reading - Final Passage,2020-12-17,1371836
+983522,0,0,0,0,1,A,Assembly Floor: Substitute for A2785 (Voice Vote),2020-12-17,1371836
+668742,25,14,0,1,1,S,Senate Floor: Third Reading - Final Passage,2017-06-26,1019832
+679774,5,0,0,1,1,A,Assembly Environment and Solid Waste Committee: Reported Favorably,2017-12-04,1019832
+684480,46,19,0,15,1,A,Assembly Floor: Third Reading - Final Passage,2018-01-08,1019832
+684481,0,0,0,0,1,A,Assembly Floor: Substitute For A5040 Acs (Voice Vote),2018-01-08,1019832
+679785,5,0,0,1,1,A,Assembly Environment and Solid Waste Committee: Reported with Substitution,2017-12-04,1020670
+679784,5,0,0,1,1,A,Assembly Environment and Solid Waste Committee: Reported with Substitution,2017-12-04,1020684
+980500,4,2,0,0,1,A,Assembly Environment and Solid Waste Committee: Reported with Amendments,2020-10-08,1339882
+879449,3,1,0,1,1,S,Senate Environment and Energy Committee: Reported with Amendments,2019-06-06,1260686
+692927,4,2,0,0,1,A,Assembly Environment and Solid Waste Committee: Reported Favorably,2018-02-01,1054246
+968929,5,0,0,0,1,S,Senate Higher Eduction Committee: Reported Favorably,2020-06-23,1369962
+977240,35,0,0,5,1,S,Senate Floor: Amend,2020-08-27,1369962
+977241,78,0,0,2,1,A,Assembly Floor: Third Reading - Final Passage,2020-08-27,1369962
+977242,0,0,0,0,1,A,Assembly Floor: Substitute for A3622 (Voice Vote),2020-08-27,1369962
+977243,39,0,0,1,1,S,Senate Floor: Third Reading - Final Passage,2020-08-27,1369962
+1111005,35,0,0,5,1,S,Senate Floor: Concur in Assembly Amendments,2020-08-27,1369962
+1204481,5,0,0,0,1,S,Senate Environment and Energy Committee: Reported with Amendments,2022-05-16,1555425
+970718,6,0,0,0,1,A,Assembly Higher Education Committee: Reported with Amendments,2020-07-09,1356930
+734543,12,0,0,1,1,S,Senate Budget and Appropriations Committee: Reported Favorably,2018-04-05,1108928
+737906,60,10,0,9,1,A,Assembly Floor: Third Reading - Final Passage,2018-04-12,1108928
+738176,28,9,0,3,1,S,Senate Floor: Third Reading - Final Passage,2018-04-12,1108928
+747978,0,0,0,0,1,A,Assembly Floor: Substitute for A3724 (Voice Vote),2018-04-12,1108928
+813379,5,1,0,0,1,S,Senate Education Committee: Reported Favorably,2019-03-04,1124663
+863201,34,1,0,5,1,S,Senate Floor: Third Reading - Final Passage,2019-05-13,1124663
+734518,7,3,0,1,1,A,Assembly Appropriations Committee: Reported Favorably,2018-04-05,1108899
+984338,11,0,0,0,1,A,Assembly Appropriations Committee: Reported with Amendments,2021-01-07,1381238
+774455,6,0,0,0,1,A,Assembly Environment and Solid Waste Committee: Reported Favorably,2018-09-17,1126388
+573192,10,0,0,2,1,A,Assembly Commerce and Economic Development Committee: Reported with Amendments,2017-01-30,841572
+983267,5,0,0,0,1,S,"Senate State Government, Wagering, Tourism & Historic Preservation Committee: Reported with Amendments",2020-12-14,1381218
+989140,8,0,0,4,1,S,Senate Budget and Appropriations Committee: Reported with Amendments,2021-01-21,1381218
+1009955,23,0,0,17,1,S,Senate Floor: Amend,2021-02-19,1381218
+1009956,0,0,0,0,1,S,Senate Floor: Second Reading (Voice Vote),2021-02-19,1381218
+1037546,24,11,0,5,1,S,Senate Floor: Third Reading - Final Passage,2021-03-25,1381218
+1091558,0,0,0,0,1,A,Assembly Floor: Substitute for A4933 (Voice Vote),2021-06-03,1381218
+1091559,57,14,0,9,1,A,Assembly Floor: Third Reading - Final Passage,2021-06-03,1381218
+28789,36,3,0,0,1,S,Senate Third Reading - Final Passage,2010-12-20,176452
+94546,77,2,0,0,1,A,Assembly Third Reading - Final Passage,2011-06-23,176452
+716830,4,0,0,1,1,S,Senate Environment and Energy Committee: Reported Favorably,2018-03-05,1054220
+729306,30,5,0,5,1,S,Senate Floor: Third Reading - Final Passage,2018-03-26,1054220
+879925,67,4,0,9,1,A,Assembly Floor: Third Reading - Final Passage,2019-06-10,1054220
+879926,0,0,0,0,1,A,Assembly Floor: Substitute for A1371 (Voice Vote),2019-06-10,1054220
+893209,26,4,0,10,1,S,Senate Floor: Amend,2019-09-12,1054220
+464214,40,0,0,0,1,S,Senate Third Reading - Final Passage,2015-06-29,683334
+468832,5,0,0,0,1,S,Senate Economic Growth Committee: Reported Favorably,2015-01-29,683334
+468833,13,0,0,0,1,S,Senate Budget and Appropriations Committee: Reported Favorably,2015-03-09,683334
+468834,40,0,0,0,1,S,Senate Floor: Third Reading - Final Passage,2015-06-29,683334
+482147,8,0,0,2,1,A,Assembly Commerce and Economic Development Committee: Reported Favorably,2015-12-10,683334
+482152,8,0,0,2,1,A,Assembly Commerce and Economic Development Committee: Reported Favorably,2015-12-10,714585
+607723,4,0,0,2,1,A,Assembly Environment and Solid Waste Committee: Reported with Amendments,2017-03-20,885374
+567125,4,0,0,1,1,S,Senate Environment and Energy Committee: Reported with Amendments,2017-01-09,885337
+716124,5,0,0,0,1,A,Assembly Housing and Community Development Committee: Reported Favorably,2018-03-05,1057104
+28626,73,2,0,5,1,A,Assembly Third Reading - Final Passage,2010-11-22,210462
+28627,30,9,0,0,1,S,Senate Third Reading - Final Passage,2010-11-22,210462
+812378,40,23,7,0,1,H,House Final Passage,2019-03-03,1205519
+410421,67,0,0,2,1,H,House Final Passage,2015-03-12,716579
+1017682,57,7,6,0,1,H,House Final Passage,2021-02-28,1421965
+1083996,18,3,0,0,1,S,Senate Final Passage,2021-05-24,1487826
+1088936,28,14,0,0,1,A,Assembly Final Passage,2021-05-31,1487826
+1057744,42,0,0,0,1,A,Assembly Final Passage,2021-04-20,1487123
+873301,13,8,0,0,1,S,Senate Final Passage,2019-05-27,1233896
+874948,28,12,1,0,1,A,Assembly Final Passage,2019-05-30,1233896
+651444,20,0,1,0,1,S,Senate Final Passage,2017-05-26,889603
+657588,35,7,0,0,1,A,Assembly Final Passage,2017-06-04,889603
+74126,13,8,0,0,1,S,Senate Final Passage,2011-04-26,274435
+85753,42,0,0,0,1,A,Assembly Final Passage,0000-00-00,274435
+850382,21,0,0,0,1,S,Senate Final Passage,2019-04-23,1241323
+872146,39,0,2,0,1,A,Assembly Final Passage,2019-05-24,1241323
+848845,21,0,0,0,1,S,Senate Final Passage,2019-04-22,1244320
+871972,33,6,2,0,1,A,Assembly Final Passage,2019-05-24,1244320
+876631,33,8,0,0,1,A,Assembly Final Passage,2019-06-01,1244320
+447303,21,0,0,0,1,S,Senate Final Passage,0000-00-00,758681
+454449,41,1,0,0,1,A,Assembly Final Passage,0000-00-00,758681
+874666,20,0,1,0,1,S,Senate Final Passage,2019-05-29,1130748
+876212,41,0,0,0,1,A,Assembly Final Passage,2019-06-01,1130748
+848438,21,0,0,0,1,S,Senate Final Passage,2019-04-22,1244327
+871981,39,0,2,0,1,A,Assembly Final Passage,2019-05-24,1244327
+1066219,36,6,0,0,1,A,Assembly Final Passage,2021-04-29,1474159
+1082061,19,1,1,0,1,S,Senate Final Passage,2021-05-20,1474159
+837488,21,0,0,0,1,S,Senate Final Passage,2019-04-05,1172479
+871551,39,1,1,0,1,A,Assembly Final Passage,2019-05-23,1172479
+631060,18,3,0,0,1,S,Senate Final Passage,2017-04-25,995662
+649979,26,14,2,0,1,A,Assembly Final Passage,2017-05-25,995662
+1052078,20,0,1,0,1,S,Senate Final Passage,2021-04-13,1488507
+1082682,35,6,1,0,1,A,Assembly Final Passage,2021-05-21,1488507
+90245,21,0,0,0,1,S,Senate Final Passage,0000-00-00,257334
+90246,26,16,0,0,1,A,Assembly Final Passage,0000-00-00,257334
+839650,21,0,0,0,1,S,Senate Final Passage,2019-04-09,1241516
+871020,33,7,1,0,1,A,Assembly Final Passage,2019-05-23,1241516
+657343,13,8,0,0,1,S,Senate Final Passage,2017-06-03,999564
+657583,29,13,0,0,1,A,Assembly Final Passage,2017-06-05,999564
+1087635,33,6,3,0,1,A,Assembly Final Passage,2021-05-28,1512603
+1088519,21,0,0,0,1,S,Senate Final Passage,2021-05-30,1512603
+850049,37,4,1,0,1,A,Assembly Final Passage,2019-04-23,1240825
+869395,21,0,0,0,1,S,Senate Final Passage,2019-05-22,1240825
+85952,41,0,1,0,1,A,Assembly Final Passage,0000-00-00,316605
+89054,21,0,0,0,1,S,Senate Final Passage,0000-00-00,316605
+451106,19,0,2,0,1,S,Senate Final Passage,0000-00-00,761626
+454690,28,13,1,0,1,A,Assembly Final Passage,0000-00-00,761626
+631722,42,0,0,0,1,A,Assembly Final Passage,2017-04-25,994793
+644690,21,0,0,0,1,S,Senate Final Passage,2017-05-16,994793
+673727,42,0,0,0,1,A,Assembly Final Passage,2017-04-25,994793
+673728,21,0,0,0,1,S,Senate Final Passage,2017-05-16,994793
+674793,42,0,0,0,1,A,Assembly Final Passage,2017-04-25,994793
+674794,21,0,0,0,1,S,Senate Final Passage,2017-05-16,994793
+846972,21,0,0,0,1,S,Senate Final Passage,2019-04-17,1244397
+872279,39,0,2,0,1,A,Assembly Final Passage,2019-05-24,1244397
+1057871,16,5,0,0,1,S,Senate Final Passage,2021-04-20,1488369
+1082718,32,9,1,0,1,A,Assembly Final Passage,2021-05-21,1488369
+450469,20,0,1,0,1,S,Senate Final Passage,0000-00-00,761555
+454663,28,13,1,0,1,A,Assembly Final Passage,0000-00-00,761555
+1082787,21,0,0,0,1,S,Senate Final Passage,2021-05-21,1508892
+1088596,32,10,0,0,1,A,Assembly Final Passage,2021-05-31,1508892
+657191,21,0,0,0,1,S,Senate Final Passage,2017-06-02,959812
+657782,34,8,0,0,1,A,Assembly Final Passage,2017-06-05,959812
+1050589,26,16,0,0,1,A,Assembly Final Passage,2021-04-12,1476781
+1078878,19,2,0,0,1,S,Senate Final Passage,2021-05-17,1476781
+659325,24,6,0,0,1,A,Assembly Environmental Conservation Committee: Favorable refer to committee Ways and Means,2017-06-07,1018016
+665230,30,0,1,0,1,A,Assembly Rules Committee: Favorable,2017-06-19,1018016
+665231,23,11,1,0,1,A,Assembly Ways And Means Committee: Favorable refer to committee Rules,2017-06-19,1018016
+665373,103,41,6,0,1,A,Assembly Floor Vote - Final Passage,2017-06-19,1018016
+792483,24,4,2,0,1,A,Assembly Environmental Conservation Committee: Favorable refer to committee Ways and Means,2019-02-05,1183080
+880185,23,10,2,0,1,A,Assembly Ways And Means Committee: Favorable refer to committee Rules,2019-06-11,1183080
+1125172,25,0,1,0,1,A,"Assembly Corporations, Authorities And Commissions Committee: Favorable refer to committee Rules",2022-01-19,1551087
+1126574,140,2,5,0,1,A,Assembly Floor Vote - Final Passage,2022-01-20,1551087
+1128269,51,11,1,0,1,S,Senate Floor Vote - Final Passage,2022-01-25,1551087
+1132705,30,0,1,0,1,A,Assembly Rules Committee: Favorable,2022-01-19,1551087
+884983,111,35,4,0,1,A,Assembly Floor Vote - Final Passage,2019-06-20,1269127
+885934,41,21,0,0,1,S,Senate Floor Vote - Final Passage,2019-06-18,1269127
+886406,16,3,0,0,1,S,Senate Rules Committee Vote,2019-06-18,1269127
+884675,22,6,3,0,1,A,Assembly Rules Committee: Favorable,2019-06-19,1269142
+884676,20,8,3,0,1,A,Assembly Rules Committee: Favorable,2019-06-19,1269142
+884677,23,10,2,0,1,A,Assembly Ways And Means Committee: Favorable refer to committee Rules,2019-06-19,1269142
+986557,41,21,0,0,1,S,Senate Floor Vote - Final Passage,2019-06-18,1269142
+986558,16,3,0,0,1,S,Senate Rules Committee Vote,2019-06-18,1269142
+1081258,9,0,0,0,1,S,Senate Agriculture Committee Vote,2021-05-19,1444864
+1089876,21,0,0,0,1,S,Senate Rules Committee Vote,2021-06-01,1444864
+1094998,63,0,0,0,1,S,Senate Floor Vote - Final Passage,2021-06-08,1444864
+1079958,22,0,1,0,1,A,Assembly Agriculture Committee: Favorable refer to committee Rules,2021-05-19,1451900
+1084993,147,0,3,0,1,A,Assembly Floor Vote - Final Passage,2021-05-25,1451900
+1084994,29,0,2,0,1,A,Assembly Rules Committee: Favorable,2021-05-25,1451900
+1094687,63,0,0,0,1,S,Senate Floor Vote - Final Passage,2021-06-08,1451900
+17633,119,22,0,7,1,A,Assembly Floor Vote - Final Passage,2009-05-05,51179
+1097165,17,4,0,0,1,S,Senate Rules Committee Vote,2021-06-10,1450996
+1097443,47,16,0,0,1,S,Senate Floor Vote - Final Passage,2021-06-10,1450996
+1097444,125,24,1,0,1,A,Assembly Floor Vote - Final Passage,2021-06-11,1450996
+998858,20,5,1,0,1,A,"Assembly Corporations, Authorities And Commissions Committee: Favorable refer to committee Codes",2021-02-09,1422733
+1024951,20,2,0,0,1,A,Assembly Codes Committee: Favorable,2021-03-09,1422733
+1063188,124,26,0,0,1,A,Assembly Floor Vote - Final Passage,2021-04-26,1422733
+1174364,23,7,0,0,1,A,Assembly Environmental Conservation Committee: Favorable refer to committee Ways and Means,2022-03-22,1506956
+1192551,21,8,2,0,1,A,Assembly Rules Committee: Favorable,2022-04-25,1506956
+1192552,20,15,0,0,1,A,Assembly Ways And Means Committee: Favorable refer to committee Rules,2022-04-25,1506956
+1193597,91,56,2,0,1,A,Assembly Floor Vote - Final Passage,2022-04-26,1506956
+1094552,20,1,0,0,1,S,Senate Rules Committee Vote,2021-06-07,1505531
+1094905,36,27,0,0,1,S,Senate Floor Vote - Final Passage,2021-06-08,1505531
+17578,115,23,0,10,1,A,Assembly Floor Vote - Final Passage,2009-05-05,50706
+1026321,25,0,3,0,1,A,Assembly Housing Committee: Favorable refer to committee Ways and Means,2021-03-09,1428178
+1203745,35,0,0,0,1,A,Assembly Ways And Means Committee: Favorable refer to committee Rules,2022-05-11,1428178
+1204754,26,0,5,0,1,A,Assembly Rules Committee: Favorable,2022-05-16,1428178
+1204872,146,0,3,0,1,A,Assembly Floor Vote - Final Passage,2022-05-16,1428178
+1073098,10,1,0,0,1,S,"Senate Housing, Construction and Community Development Committee Vote",2021-05-04,1419597
+1138133,8,3,0,0,1,S,"Senate Housing, Construction and Community Development Committee Vote",2022-02-08,1419597
+649472,29,0,1,0,1,A,Assembly Environmental Conservation Committee: Favorable refer to committee Ways and Means,2017-05-23,1005797
+373352,119,16,5,0,1,A,Assembly Floor Vote - Final Passage,0000-00-00,621291
+271194,124,16,8,0,1,A,Assembly Floor Vote - Final Passage,0000-00-00,544125
+973323,17,2,0,0,1,S,Senate Rules Committee Vote,2020-07-22,1373653
+973696,42,18,0,0,1,S,Senate Floor Vote - Final Passage,2020-07-23,1373653
+878214,25,0,1,0,1,A,Assembly Health Committee: Favorable refer to committee Ways and Means,2019-06-05,1265391
+880792,30,0,5,0,1,A,Assembly Ways And Means Committee: Favorable refer to committee Rules,2019-06-12,1265391
+881687,25,0,6,0,1,A,Assembly Rules Committee: Favorable,2019-06-14,1265391
+985535,15,0,0,0,1,S,Senate Health Committee Vote,2019-05-21,1265391
+985536,62,0,0,0,1,S,Senate Floor Vote - Final Passage,2019-06-13,1265391
+881485,15,0,0,0,1,S,Senate Health Committee Vote,2019-05-21,1243780
+881744,62,0,0,0,1,S,Senate Floor Vote - Final Passage,2019-06-13,1243780
+884313,146,0,4,0,1,A,Assembly Floor Vote - Final Passage,2019-06-18,1243780
+1083886,30,0,0,0,1,A,Assembly Environmental Conservation Committee: Favorable refer to committee Rules,2021-05-24,1451885
+1144528,23,6,1,0,1,A,Assembly Environmental Conservation Committee: Favorable,2022-02-15,1451885
+1194872,137,8,4,0,1,A,Assembly Floor Vote - Final Passage,2022-04-27,1451885
+75915,94,44,10,0,1,A,Assembly Floor Vote - Final Passage,2011-05-02,276251
+83465,94,44,10,0,1,A,Assembly Floor Vote - Final Passage,2011-05-02,276251
+14990,61,0,0,1,1,S,Senate Floor Vote - Final Passage,2010-02-02,55851
+14991,130,0,0,16,1,A,Assembly Floor Vote - Final Passage,2010-02-09,55851
+270974,100,40,8,0,1,A,Assembly Floor Vote - Final Passage,0000-00-00,538588
+1094795,9,0,0,0,1,S,Senate Energy And Telecommunications Committee Vote,2021-05-19,1504886
+1094796,58,5,0,0,1,S,Senate Floor Vote - Final Passage,2021-06-08,1504886
+1095242,149,0,1,0,1,A,Assembly Floor Vote - Final Passage,2021-06-08,1504886
+1093598,35,0,0,0,1,A,Assembly Ways And Means Committee: Favorable refer to committee Rules,2021-06-07,1506785
+1094352,30,0,1,0,1,A,Assembly Rules Committee: Favorable,2021-06-08,1506785
+942494,5,2,0,0,1,S,Senate Committee Vote,2020-03-03,1175901
+972944,17,6,0,0,1,S,Senate Finance Committee Vote,2020-07-21,1175901
+973675,41,19,0,0,1,S,Senate Floor Vote - Final Passage,2020-07-22,1175901
+973777,17,6,0,0,1,S,Senate Finance Committee Vote,2020-07-21,1175901
+1083381,30,0,0,0,1,A,Assembly Environmental Conservation Committee: Favorable refer to committee Ways and Means,2021-05-24,1511352
+1075697,15,0,0,0,1,S,Senate Education Committee Vote,2021-05-11,1469219
+1062365,10,1,0,0,1,S,Senate Environmental Conservation Committee Vote,2021-04-19,1497747
+1062366,54,8,1,0,1,S,Senate Floor Vote - Final Passage,2021-04-26,1497747
+1199603,10,1,0,0,1,S,Senate Environmental Conservation Committee Vote,2022-05-03,1497747
+1202076,20,2,1,0,1,S,Senate Finance Committee Vote,2022-05-10,1497747
+437246,99,41,9,0,1,A,Assembly Floor Vote - Final Passage,2015-04-22,752569
+16944,111,33,0,5,1,A,Assembly Floor Vote - Final Passage,2010-04-20,51516
+614006,7,0,0,0,1,S,"Senate Corporations, Authorities and Commissions Committee Vote",2017-03-28,964232
+664574,57,3,3,0,1,S,Senate Floor Vote - Final Passage,2017-06-15,964232
+664575,25,0,0,0,1,S,Senate Rules Committee Vote,2017-06-15,964232
+718869,7,0,0,0,1,S,"Senate Corporations, Authorities and Commissions Committee Vote",2018-03-06,964232
+526918,113,30,3,0,1,A,Assembly Floor Vote - Final Passage,2016-03-31,816695
+1203654,11,6,0,0,1,A,Assembly Energy Committee: Favorable refer to committee Rules,2022-05-11,1608242
+370207,133,0,7,0,1,A,Assembly Floor Vote - Final Passage,0000-00-00,574761
+1193673,9,0,0,0,1,S,"Senate Commerce, Economic Development and Small Business Committee Vote",2022-04-27,1609308
+1202116,22,0,1,0,1,S,Senate Finance Committee Vote,2022-05-10,1609308
+881885,13,6,0,0,1,S,Senate Rules Committee Vote,2019-03-26,1165645
+881886,43,19,0,0,1,S,Senate Floor Vote - Final Passage,2019-06-13,1165645
+1178750,14,1,1,0,1,A,Assembly Energy Committee: Favorable refer to committee Ways and Means,2022-03-29,1515717
+1095134,21,0,0,0,1,S,Senate Rules Committee Vote,2021-06-07,1512016
+1095135,61,2,0,0,1,S,Senate Floor Vote - Final Passage,2021-06-08,1512016
+1144070,9,0,0,0,1,S,Senate Energy and Telecommunications Committee Vote,2022-02-15,1512016
+1159222,60,3,0,0,1,S,Senate Floor Vote - Final Passage,2022-03-01,1512016
+1192597,5,2,0,0,1,S,Senate Procurement And Contracts Committee Vote,2021-04-19,1486920
+1193026,5,2,0,0,1,S,Senate Procurement and Contracts Committee Vote,2022-04-26,1486920
+1201848,17,5,1,0,1,S,Senate Finance Committee Vote,2022-05-10,1486920
+713474,19,0,0,0,1,H,House Re-referred,2018-02-28,1024521
+735964,26,0,0,0,1,H,House Favorable Passage,2018-04-10,1024521
+736906,92,2,0,0,1,H,House Passed,2018-04-11,1024521
+760521,33,0,0,0,1,S,Senate Passed,2018-06-06,1024521
+760522,12,0,0,0,1,S,Senate Favorable Passage,2018-06-06,1024521
+895209,9,0,0,0,1,S,Senate Favorable Passage,2019-10-16,1231670
+895516,31,0,0,0,1,S,Senate Passed,2019-10-23,1231670
+916739,13,3,0,0,1,H,House Favorable Passage,2020-02-05,1231670
+938198,88,7,0,0,1,H,House Passed,2020-02-05,1231670
+737245,12,7,0,0,1,H,House Favorable Passage,2018-04-11,1029670
+766066,60,33,0,0,1,H,House Passed,2018-06-20,1029670
+779880,9,3,0,0,1,S,Senate Favorable Passage,2018-12-06,1029670
+780421,23,8,0,0,1,S,Senate Passed,2018-12-13,1029670
+856640,8,0,0,0,1,S,Senate Favorable Passage,2019-05-01,1244747
+856641,32,0,0,0,1,S,Senate Passed,2019-05-01,1244747
+895641,13,0,0,0,1,H,House Favorable Passage,2019-10-25,1244747
+912576,87,5,0,0,1,H,House Passed,2020-01-30,1244747
+279627,23,10,0,0,1,S,Senate - Motion to Table Amendment,2013-05-15,548440
+279628,31,2,0,0,1,S,Senate - Third Consideration,2013-05-15,548440
+291857,96,1,0,0,1,H,House - Motion agreed to and so amended (Vote),2013-06-25,548440
+291858,94,3,0,0,1,H,House - Bill Passed (Vote),2013-06-25,548440
+292397,31,1,0,0,1,S,Senate - Senate concurred in House amendments (Vote),2013-06-27,548440
+722995,8,3,0,0,1,H,House Favorable Passage,2018-03-15,1087533
+726753,75,22,0,0,1,H,House Passed,2018-03-21,1087533
+755746,9,0,0,0,1,S,Senate Favorable Passage,2018-05-23,1087533
+760057,32,1,0,0,1,S,Senate Passed,2018-06-06,1087533
+870738,11,0,0,0,1,S,Senate Favorable Passage,2019-05-23,1233359
+880688,32,0,0,0,1,S,Senate Passed,2019-06-12,1233359
+983680,16,0,0,0,1,H,House Favorable Passage,2020-12-17,1233359
+960366,10,0,0,0,1,S,Senate Favorable Passage,2020-05-26,1250322
+960974,31,1,0,0,1,S,Senate Passed,2020-05-27,1250322
+195912,33,0,0,0,1,S,Senate - Third Consideration,2012-05-15,419917
+887908,11,0,0,0,1,H,House Favorable Passage,2019-06-26,1263347
+888244,95,0,0,0,1,H,House Passed,2019-06-27,1263347
+911640,6,3,0,0,1,S,Senate Favorable Passage,2020-01-28,1263347
+911641,26,7,0,0,1,S,Senate Passed,2020-01-28,1263347
+197933,55,41,0,0,1,H,House - Motion to Table Amendment,2012-05-23,420821
+197934,81,15,0,0,1,H,House - Third Consideration,2012-05-23,420821
+136934,11,20,0,0,0,S,Senate - House Amendments,2010-05-18,42289
+136935,30,0,0,0,1,S,Senate - Third Consideration,2009-03-11,42289
+382159,31,1,0,0,1,S,Senate - Third Consideration,2014-12-03,571102
+840986,11,9,0,0,1,H,House Favorable Passage,2019-04-10,1203850
+900219,54,39,0,0,1,H,House Passed,2019-12-11,1203850
+983409,6,3,0,0,1,S,Senate Favorable Passage,2020-12-16,1203850
+983844,21,10,0,0,1,S,Senate Passed,2020-12-22,1203850
+36400,88,8,0,0,1,H,House - Third Consideration - Emergency Clause,2011-02-15,247209
+36401,89,7,0,0,1,H,House - Third Consideration,2011-02-15,247209
+41755,31,1,0,0,1,S,Senate - Third Consideration - Emergency Clause,2011-02-23,247209
+41756,32,0,0,0,1,S,Senate - Third Consideration,2011-02-23,247209
+43986,89,6,0,0,1,H,House - Senate Amendments - Emergency Clause,2011-03-02,247209
+43987,93,2,0,0,1,H,House - Senate Amendments,2011-03-02,247209

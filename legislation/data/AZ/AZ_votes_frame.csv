@@ -1,0 +1,43 @@
+roll_call_id,yea,nay,absent,nv,passed,chamber,desc,date,bill_id
+232129,6,2,0,1,1,H,House Commerce Committee Action (DPA),2013-02-13,459183
+236457,9,0,0,0,1,H,House Rules Committee Action (C&P),2013-02-25,459183
+239635,52,4,0,4,1,H,House - Third Reading,2013-02-28,459183
+252764,4,3,0,0,1,S,Senate Government and Environment Committee Action (DPA/SE),2013-03-21,459183
+274186,16,12,0,2,1,S,Senate - Third Reading,2013-04-30,459183
+314604,5,2,0,0,1,S,Senate Government and Environment Committee Action (DP),2014-02-03,608086
+331378,21,9,0,0,1,S,Senate - Third Reading,2014-02-27,608086
+331379,21,9,0,0,1,S,Senate - Third Reading,2014-02-27,608086
+338465,8,0,0,0,1,H,"House Energy, Environment and Natural Resources Committee Action (DPA)",2014-03-10,608086
+344168,6,0,3,0,1,H,House Rules Committee Action (C&P),2014-03-18,608086
+356229,55,2,0,3,1,H,House - Third Reading,2014-04-15,608086
+356978,19,9,0,2,1,S,Senate - Third Reading,2014-04-16,608086
+1139131,9,0,1,0,1,H,House Commerce Committee Action (DP),2022-02-08,1558636
+1142842,7,0,1,0,1,H,House Rules Committee Action (C&P),2022-02-14,1558636
+1149335,0,0,0,0,1,H,House - Committee of the Whole (DPA),2022-02-21,1558636
+1149336,58,0,0,2,1,H,House - Third Reading,2022-02-21,1558636
+1171130,6,0,0,2,1,S,Senate Health and Human Services Committee Action (DP),2022-03-16,1558636
+1176365,0,0,0,0,1,S,Senate Appropriations Committee Action (W/D),2022-03-24,1558636
+1189124,0,0,0,0,1,S,Senate Rules Committee Action (PFC),2022-04-18,1558636
+1192088,0,0,0,0,1,S,Senate - Committee of the Whole (DP),2022-04-25,1558636
+1192089,24,3,0,3,1,S,Senate - Third Reading,2022-04-25,1558636
+486984,6,0,0,1,1,S,Senate Water and Energy Committee Action (DPA),2016-01-25,819241
+492834,30,0,0,0,1,S,Senate - Third Reading,2016-02-08,819241
+506617,7,0,3,0,1,H,"House Agriculture, Water and Lands Committee Action (DP)",2016-02-25,819241
+515153,8,0,1,0,1,H,House Rules Committee Action (C&P),2016-03-07,819241
+542994,57,0,0,3,1,H,House - Third Reading,2016-05-05,819241
+1143758,12,1,1,1,1,H,House Military Affairs & Public Safety Committee Action (DP),2022-02-14,1571693
+1149690,8,0,0,0,1,H,House Rules Committee Action (C&P),2022-02-21,1571693
+1154271,0,0,0,0,1,H,House - Committee of the Whole (RET ON CAL),2022-02-24,1571693
+1159567,0,0,0,0,1,H,House - Committee of the Whole (DPA),2022-03-02,1571693
+1159568,56,0,1,3,1,H,House - Third Reading,2022-03-02,1571693
+1175275,7,0,0,1,1,S,Senate Health and Human Services Committee Action (DPA),2022-03-23,1571693
+1204489,0,0,0,0,1,S,Senate Rules Committee Action (PFC),2022-05-16,1571693
+1205562,0,0,0,0,1,S,Senate - Committee of the Whole (DPA),2022-05-18,1571693
+1205563,25,0,0,5,1,S,Senate - Third Reading,2022-05-18,1571693
+396014,5,0,0,0,1,S,Senate Rural Affairs and Environment Committee Action (DPA/SE),2015-02-17,698160
+404231,20,9,0,1,1,S,Senate - Third Reading,2015-03-04,698160
+411585,9,0,0,0,1,H,"House Energy, Environment and Natural Resources Committee Action (DPA)",2015-03-16,698160
+416337,10,1,3,0,1,H,House Appropriations Committee Action (DPA),2015-03-25,698160
+417050,8,0,1,0,1,H,House Rules Committee Action (C&P),2015-03-26,698160
+424506,58,2,0,0,1,H,House - Third Reading,2015-03-31,698160
+426074,25,3,0,2,1,S,Senate - Third Reading,2015-04-02,698160

@@ -4,6 +4,7 @@ import configparser
 import pandas as pd
 import pickle
 from pathlib import Path
+import time
 
 """
 Assign all CA searches to a pandas dataframe and a pickle file. Also store in a CSV file. Keep set data in a separate pickle file.
@@ -11,7 +12,11 @@ Assign all CA searches to a pandas dataframe and a pickle file. Also store in a 
 Next time, find way to add data to a pandas dataframe and pickle file.
 """
 
-STATES = [ 'AL', 'AK', 'AS', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'DC', 'FM', 'FL', 'GA', 'GU', 'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MH', 'MD', 'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 'NM', 'NY', 'NC', 'ND', 'MP', 'OH', 'OK', 'OR', 'PW', 'PA', 'PR', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT', 'VT', 'VI', 'VA', 'WA', 'WV', 'WI', 'WY' ]
+STATES = [ 'GA',
+           'HI', 'IA', 'ID', 'IL', 'IN', 'KS', 'KY', 'LA', 'MA', 'MD', 'ME',
+           'MI', 'MN', 'MO', 'MS', 'MT', 'NC', 'ND', 'NE', 'NH', 'NJ', 'NM',
+           'NV', 'NY', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX',
+           'UT', 'VA', 'VT', 'WA', 'WI', 'WV', 'WY'] #, 'CA', 'IN' removed CA and IN  'AK', 'AL', 'CO', 'CT', 'DC', 'DE', 'FL','AR', 'AZ',
 
 SET_PATH = Path('sets/')
 DATA_PATH = Path('data/')
@@ -65,60 +70,93 @@ if __name__ == '__main__':
       with open(file, 'rb') as pickle_in:
         found[_set] = pickle.load(pickle_in)
 
-  queries = ['renewable energy', 'climate change']
-  state = 'CA'
+  queries = ['climate change', 'renewable energy']
+  state = 'AZ'
 
-  # bill_ids = legis_worker.getSearchIds(search_type=1, state=state, query=queries[1])
-  # for id in bill_ids:
-    # bill = legis_worker.get_bill(bill_id=id)
+  # bill_ids = legis_worker.getSearchIds(state=state, query=queries[0])
+  # print(bill_ids)
+  # bill = legis_worker.get_bill(bill_id=bill_ids[1][0])
+  # data_finder = None
+  # try:
+  #   data_finder = BillData(bill)
+  # except IndexError:
+  #   print('found empty information')
+  # json_formatted = json.dumps(bill, indent=2)
+  # print(json_formatted)
 
-  bill = legis_worker.get_bill(bill_id='1147485')
-  data_finder = BillData(bill)
+  # search for bills with revelance=90
 
-  if bill['bill_id'] not in found['found_bills']:
-    found['found_bills'].add(bill['bill_id'])
-    former_sponsor_len = len(data_lists['sponsor_list'])
-    addToList(data_lists['bill_list'], lambda: data_finder.getBillData())
-    repeated_sponsors = addToList(data_lists['sponsor_list'], lambda: data_finder.getSponsorData(), found['found_people'])
-    addToList(data_lists['votes_list'], lambda: data_finder.getVoteData())
-    for sponsor in data_lists['sponsor_list'][former_sponsor_len:]:
-      data_lists['bill_sponsor_list'].append(
-        {'bill_id': data_lists['bill_list'][-1]['bill_id'], 
-        'people_id': sponsor['people_id']
-        })
-    for sponsor in repeated_sponsors:
-      data_lists['bill_sponsor_list'].append([data_lists['bill_list'][-1]['bill_id'], sponsor['people_id']])
+  for state in STATES:
+    bills = legis_worker.getSearchIds(state=state, query=queries[0])
 
-  SET_PATH.mkdir(parents=True, exist_ok=True)
-  for _set in found.keys():
-    file = _set + '.pickle'
-    with open(SET_PATH / file, 'wb') as pickle_out:
-      pickle.dump(found[_set], pickle_out)
+    for id, relevance in bills:
+      if relevance < 90: break
+      
+      while True:
+        try:
+          bill = legis_worker.get_bill(bill_id=id)
+          print('bill id : ', id)
+          break
+        except LegiScanError:
+          print(f"Error with bill {id}")
+          continue
+        except requests.exceptions.ReadTimeout:
+          print('timeout error... retrying')
+      try:
+        data_finder = BillData(bill)
+      except IndexError:
+        print('found empty information')
+        continue
 
-  # Create panda dataframes (will be converted to sql table)
-  frames = {
-    'bill_frame': pd.DataFrame(columns=BillData.BILL_ATTR).drop(columns='STOP'), 
-    'sponsor_frame': pd.DataFrame(columns=BillData.SPONSOR_ATTR).drop(columns='STOP'), 
-    'bill_sponsor_frame': pd.DataFrame(columns=['bill_id', 'people_id']), 
-    'votes_frame': pd.DataFrame(columns=BillData.VOTE_ATTR).drop(columns='STOP')
-  }
+      if bill['bill_id'] not in found['found_bills'] and bill['bill_type'] == 'B':
+        found['found_bills'].add(bill['bill_id'])
+        former_sponsor_len = len(data_lists['sponsor_list'])
+        addToList(data_lists['bill_list'], lambda: data_finder.getBillData())
+        repeated_sponsors = addToList(data_lists['sponsor_list'], lambda: data_finder.getSponsorData(), found['found_people'])
+        addToList(data_lists['votes_list'], lambda: data_finder.getVoteData())
+        for sponsor in data_lists['sponsor_list'][former_sponsor_len:]:
+          data_lists['bill_sponsor_list'].append(
+            {'bill_id': data_lists['bill_list'][-1]['bill_id'], 
+            'people_id': sponsor['people_id']
+            })
+        for sponsor in repeated_sponsors:
+          data_lists['bill_sponsor_list'].append([data_lists['bill_list'][-1]['bill_id'], sponsor['people_id']])
 
-  frames['bill_frame'] = addToFrame(frames['bill_frame'], data_lists['bill_list'])
-  frames['sponsor_frame'] = addToFrame(frames['sponsor_frame'], data_lists['sponsor_list'])
-  frames['bill_sponsor_frame'] = addToFrame(frames['bill_sponsor_frame'], data_lists['bill_sponsor_list'])
-  frames['votes_frame'] = addToFrame(frames['votes_frame'], data_lists['votes_list'])
+    SET_PATH.mkdir(parents=True, exist_ok=True)
+    for _set in found.keys():
+      file = _set + '.pickle'
+      with open(SET_PATH / file, 'wb') as pickle_out:
+        pickle.dump(found[_set], pickle_out)
 
-  DATA_PATH.mkdir(parents=True, exist_ok=True)
-  for frame in frames.keys():
-    csv_file = frame + '.csv'
-    path = DATA_PATH / csv_file
-    if path.is_file():
-      frames[frame].to_csv(path, index=False, mode='a', header=False)
-    else:
-      frames[frame].to_csv(path, index=False)
+    # Create panda dataframes (will be converted to sql table)
+    frames = {
+      'bill_frame': pd.DataFrame(columns=BillData.BILL_ATTR).drop(columns='STOP'), 
+      'sponsor_frame': pd.DataFrame(columns=BillData.SPONSOR_ATTR).drop(columns='STOP'), 
+      'bill_sponsor_frame': pd.DataFrame(columns=['bill_id', 'people_id']), 
+      'votes_frame': pd.DataFrame(columns=BillData.VOTE_ATTR).drop(columns='STOP')
+    }
 
-  print(json.dumps(bill, indent=2))
+    frames['bill_frame'] = addToFrame(frames['bill_frame'], data_lists['bill_list'])
+    frames['sponsor_frame'] = addToFrame(frames['sponsor_frame'], data_lists['sponsor_list'])
+    frames['bill_sponsor_frame'] = addToFrame(frames['bill_sponsor_frame'], data_lists['bill_sponsor_list'])
+    frames['votes_frame'] = addToFrame(frames['votes_frame'], data_lists['votes_list'])
+
+    STATE_PATH = DATA_PATH / state
+    STATE_PATH.mkdir(parents=True, exist_ok=True)
+
+    for frame in frames.keys():
+      csv_file = state + '_' + frame + '.csv'
+      path = STATE_PATH / csv_file
+      if path.is_file():
+        frames[frame].to_csv(path, index=False, mode='a', header=False)
+      else:
+        frames[frame].to_csv(path, index=False)
     
+    time.sleep(20)
+
+
+  # print(json.dumps(bill, indent=2))
+
 
 # bills = legis_worker.searchRaw(state='CA', query='climate change')
 # print(type(bills))

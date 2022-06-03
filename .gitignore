@@ -1,3 +1,4 @@
 legislation/private.ini
 .DS_Store
 legislation/.DS_Store
+legislation/__pycache__/

@@ -231,16 +231,19 @@ class MoreLegiscan(LegiScan):
     results = {'summary': summary, 'results': [data[i] for i in data]}
     return results
 
-  def getSearchIds(self, search_type, state, bill_number=None, query=None, year=1, page=1):
+  def getSearchIds(self, state, bill_number=None, query=None, year=1, page=1):
     """Gets a page of results through search() or searchRaw() according to the arguments given. Then finds the bill ids associated with all search results.
 
         Specify a search type. This determines whether to use search() or searchRaw(). There are two integer choices for this:
             0 = search()
             1 = searchRaw()
-        Returns a list of bill ids associated with the corresponding search.
+        Returns a list of bill ids (0) and their respective relevance (1) associated with the corresponding search.
+
+        REMOVED SEARCH_TYPE PARAMETER BECAUSE REGULAR SEARCH() FUNCTIONALITY DOES NOT WORK AT THE MOMENT
     """
+    search_type = 1
     bills = super().search(state=state, bill_number=bill_number, query=query, page=page, year=year) if search_type == 0 else self.searchRaw(state=state, bill_number=bill_number, query=query, year=year)
-    
+    # print(json.dumps(bills, indent=2))
     num_bills = int(bills['summary']['count'])
     bill_ids = []
     if search_type == 0:
@@ -248,5 +251,5 @@ class MoreLegiscan(LegiScan):
             bill_ids.append(bills['results'][i]['bill_id'])
     else:
         for i in range(num_bills):
-            bill_ids.append(bills['results'][0][i]['bill_id'])
+            bill_ids.append([bills['results'][0][i]['bill_id'], bills['results'][0][i]['relevance']])
     return bill_ids
